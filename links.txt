@@ -1,0 +1,44 @@
+
++ 03 - 07 - 2015
+https://books.google.com.vn/books?id=BWO4CAAAQBAJ&pg=PP8&lpg=PP8&dq=laravel+ebook+pdf&source=bl&ots=89X6XuvIVU&sig=ndn_H-LmvI97yUEVb8iYFqWvuXo&hl=en&sa=X&ei=Tv-RVYP2EuKhmQX3xoCoBg&redir_esc=y#v=onepage&q=laravel%20ebook%20pdf&f=false
+
++ Article
+http://code.tutsplus.com/categories/laravel
+http://code.tutsplus.com/tutorials/quick-tip-installing-laravel-5--cms-23160
+http://buildwithcraft.com/docs/requirements
+https://github.com/vlucas/phpdotenv
+
++ Original document
+https://github.com/laravel/docs
+
+https://github.com/99designs
+
++ Article
+https://www.flynsarmy.com/2015/02/creating-a-basic-todo-application-in-laravel-5-part-1/
+https://laracasts.com/series/laravel-5-fundamentals
+http://learninglaravel.net/tags/tutorials
+http://code.tutsplus.com/tutorials/using-laravel-5s-authentication-facade--cms-23461
+http://code.tutsplus.com/tutorials/whats-new-in-laravel-5--cms-21842
+https://scotch.io/tutorials/build-a-time-tracker-with-laravel-5-and-angularjs-part-1
+https://laravel-news.com/category/laravel-tips-tutorials/
+https://github.com/Flynsarmy/laravel-5-todo-tutorial
+http://mnking.net/php-framework/laravel/huong-dan-cai-dat-laravel-tren-moi-truong-window.html
+http://mnking.net/php-framework/cac-duong-dan-vat-ly-trong-laravel.html
+http://www.php-fig.org/psr/psr-2/
+https://laracasts.com/
+https://laracasts.com/series/whats-new-in-laravel-5-1
+https://github.com/msysgit/msysgit/releases/tag/Git-1.9.5-preview20150319
+https://github.com/github/msysgit#portablegit
+http://www.syntevo.com/smartgit/download
+http://www.codeheaps.com/php-programming/creating-website-using-laravel-5-elixir-assets/
+http://www.codetutorial.io/laravel-5-and-angularjs-tutorial-reloaded-part-1/
+http://laravel.io/forum/02-24-2015-laravel-5-authentication-video-tutorial
+http://www.codeanchor.net/blog/creating-custom-laravel-5-packages/
+https://styde.net/laravel-5/
+http://www.easylaravelbook.com/blog/2015/02/09/creating-a-contact-form-in-laravel-5-using-the-form-request-feature/
+http://tutsnare.com/laravel-user-login-authentication-code-example/
+http://id-laravel.com/
+http://andrewperkins.net/laravel
+https://sheepy85.wordpress.com/2014/09/25/laravel-5-authentication-user-model/
+
+
