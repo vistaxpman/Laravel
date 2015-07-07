@@ -1,1 +1,79 @@
++ Senior .Net Developer - Rocketuncle
+• Solid knowledge in ASP.NET (7+ years of experience)
+• Solid Knowledge in MVC, WCF, WPF, Signal R, Knockout JS, REST API
+• Solid knowledge about Design Pattern, OOP.
+• Good at English
+• Solid knowledge of Microsoft SQL Server OR MySQL and SQL language
+• Experience in working with MongoDB is a good plus
+• Experience working with agile methodologies
+• Solid interpersonal and communication skills
+• Self-motivated, independent, committed 
+
+===========================
+Senior .NET Developer - swiss IT bridge Co., Ltd
+Techniques:
+
+1. Must have:
+- At least 04+ years of experience in software development industry.
+- Solid understanding of Object Oriented Programming and C#.
+- Strong skill at Web API, ASP.NET, ASP.NET MVC, WCF, LINQ, Entity Framework.
+- Experience with unit tests, test-driven development, code coverage, testing frameworks and refactoring code.
+- Experience in design patterns and open source frameworks (Spring, Hibernate).
+- Experience in using HTML, CSS, JavaScript library/framework such as jquery, Bootstrap.
+- Experience in using JSON/XML with Ajax techniques.
+- Strong skill at MS SQL Server programming (stored procedure, function, job, trigger, view).
+- Strong skill in database design, database management, particularly MS SQL.
+- Ability to deploy and manage IIS.
+- Experience with Git or similar version control systems as SVN, TFS, Clearcase.
+- Experience with UML or business workflow (BPM).
+
+2. Nice to have:
+- Experience on SharePoint.
+- Experience on auto deployment tools and process to apply.
+- Experience on native mobile applications(iOS, Android) or Xamarin.
+- Experience on HTML5, CSS3, ReactJS, AngularJS.
+- Experience on Scrum/Agile/Kanban.
+
+3. Language Skills:
+- Fluency in English communication, good verbal, read and written skills.
+- Skills in German is a big advantage.
+
+Please submit your CV with focus on what you have accomplished in the past and send it to HR Department via email
+
+We look forward to meeting you. Hẹn gặp lại! 
+
+=========================
++ PHP Developer - swiss IT bridge Co., Ltd
+- experienced in agile software development methods (such as Scrum or Kanban) or eager to learn them.
+- excellent spoken and written command of English.
+- able to adjust your working time according the the project schedule.
+- 2 years experience in PHP/MySQL.
+- MVC frameworks and RESTful services are your hobbies.
+- experience in one of the following frameworks: Zend, Laravel, Symfony
+- HTML5/CSS3 is no challenge and you keep up to date with web trends/standards. Boilerplate/Bootstrap/Foundation are no strangers to you.
+- experienced in JavaScript and familiar with libraries such as jQuery
+
+
+Please submit your CV with focus on what you have accomplished in the past and send it to HR Department
+
+We look forward to meeting you. Hẹn gặp lại! 
+=====================
++ Senior Php/magento Developer - CJ CGV Cinemas
+Chuyên Môn Của Bạn
+- At least 2 year of working experience with PHP/Magento.
+
+- Experience with Web Server on Linux/Centos and Window Web Server
+
+- HTML, PHP, MySQL, JavaScript/JQuery skills required
+
+- Magento Certificate is a plus
+
+- Security knowledge is preferred
+
+- Excellent logical thinking ability
+
+- Ability to work in a team.
+
+- English skills in reading and writing.
+
 
