@@ -1,1 +1,41 @@
++ Search google 
+  https://www.google.com.vn/#q=create+menu+in+wordpress&start=30
++ Keyword for create new menu
+  - Creating a Custom Menu in WordPress
+  
++ Blog
+  - http://www.elegantthemes.com/blog/
+  - https://theme-fusion.com/blog/
+  - http://wptavern.com/
+  
++ Create new a menu  
+  https://theme-fusion.com/how-to-create-wordpress-menus/
+  http://www.onextrapixel.com/2015/03/27/how-to-create-a-mega-menu-for-your-wordpress-website/
+  http://para.llel.us/support/tutorials/linking-menu-items-to-sections-on-the-same-page/
+  http://www.elmastudio.de/en/wordpress-en/wordpress-newbies-how-to-create-custom-menus/
+  http://www.solostream.com/blog/solostream-themes-and-wordpress-3-0-menu-management-function/
+  http://itxdesign.com/is-there-an-easy-way-to-create-a-duplicate-menu-in-wordpress/
+  https://codex.wordpress.org/Appearance_Menus_Screen
+  https://en.support.wordpress.com/menus/
+  http://bobwp.com/create-wordpress-navigation-menus/
+  http://bobwp.com/category/blog-design-tips/
+  http://bobwp.com/create-navigation-menus-wordpress/
+  https://www.elegantthemes.com/blog/tips-tricks/how-to-create-custom-menu-structures-in-wordpress
+  http://premium.wpmudev.org/blog/add-menus-to-wordpress/
+  http://premium.wpmudev.org/blog/wordpress-menus/
+  http://techblog.kjodle.net/2011/08/25/create-custom-menus-in-wordpress/
+  http://code.tutsplus.com/tutorials/creating-a-wordpress-theme-from-static-html-adding-navigation--wp-34032
+  http://wpapprentice.com/videos/customize/how-to-create-menus-in-wordpress/
+  http://www.cryoutcreations.eu/wordpress-themes/wordpress-tutorials/how-to-use-a-custom-menu-in-your-wordpress-website
+  http://easywpguide.com/wordpress-manual/appearance/updating-the-menu/adding-a-new-menu-item/
+  http://wptavern.com/how-to-create-a-dropdown-menu-of-wordpress-categories-without-using-code
+  http://designmodo.com/responsive-menu-wordpress/
+  http://www.rockettheme.com/docs/wordpress/start/menus.md
+  http://wpexplorer-themes.com/total/docs/creating-mega-menus/
+  http://themify.me/conditional-menus
+  http://help.semplicelabs.com/customer/portal/articles/1751571-how-to-create-a-menu-in-wordpress
+  
+  
+  
 https://github.com/vistaxpman/Laravel/new/master
+
