@@ -76,4 +76,28 @@ Chuyên Môn Của Bạn
 
 - English skills in reading and writing.
 
+== 
++ Senior PHP Developer - VietnamWorks
 
+Good knowledge in some back end technologies like Symfony or Zend
+
+Good knowledge in NoSQL databases and Jenkins
+
+Good knowledge in building systems such as ant or Phing
+
+Good knowledge in mobile technologies for ex. Sencha Touch or PhoneGap
+
+Deep architectural understanding of web and mobile applications
+
+Superior creative and innovative problem-solving skills
+
+Initiative and the ability to work independently and in a team
+
+Knowledge in standard front end technologies like HTML5, CSS, Twitter Bootstrap, JavaScript (we use JQuery), REST, JSON, Elastic Search
+
+Knowledge of Open Source libraries, tools and frameworks, e.g. forl logging, wiring, testing, and building. The more the merrier!
+
+Experience with agile software development methodologies like XP and Scrum
+An interest to learn more about new languages and frameworks
+
+Last but not least we expect you to have strong communication skills (English and Vietnamese verbal and written) and preferably 5+ years experience of software development in a similar role 
