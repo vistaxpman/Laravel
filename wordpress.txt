@@ -1,3 +1,73 @@
+===========================================
++ Tạo dropdown menu trong wordpress
+https://www.google.com.vn/#q=create+drop+down+menu+for+wordpress&start=50
++ Tổng hợp project wordpress
+	http://acroweb.co.uk/portfolio/
+	http://www.wordprax.com/examples
+	http://themeshaper.com/
+	https://pagely.com/blog/
+	https://siteorigin.com/theme/
+	
++ Tạo dropdown menu trong wordpress
+	- Từ khóa
+		wp_nav_menu
+		dropdown menu
+		How to Build a WordPress Menu
+	- Good
+	http://frankiejarrett.com/create-a-dropdown-of-custom-taxonomies-in-wordpress-the-easy-way/
+	http://www.billerickson.net/code/wordpress-menu-as-select-dropdown/
+	http://astronautweb.co/2012/10/wordpress-dropdown-bootstrap/
+	https://github.com/twittem/wp-bootstrap-navwalker
+	http://scottnix.com/bootstraps-menu-and-thematic/
+	http://www.silocreativo.com/en/create-custom-menus-wordpress/
+	http://scottbolinger.com/simple-jquery-drop-down-menu-in-wordpress/
+	https://pagely.com/blog/2015/03/build-wordpress-menu/
+	http://docs.woothemes.com/document/docs-menus/
+	http://acroweb.co.uk/adding-css-drop-down-menus-to-wordpress-3-0-theme/
+	http://wptavern.com/how-to-create-a-dropdown-menu-of-wordpress-categories-without-using-code
+	http://foundation.zurb.com/forum/posts/19838-creating-dropdown-menu-with-wordpress
+	http://richwp.com/how-to-create-custom-drop-down-menus-in-wordpress/
+	http://wproots.com/how-to-style-wordpress-menus-dropdowns/
+	http://www.wpdailythemes.com/blog/creating-drop-menu-wordpress/
+	http://www.jezweb.info/add-pdf-drop-menu/
+	http://www.georgealmeida.com/2014/12/create-a-drop-down-menu-in-wordpress/
+	https://perishablepress.com/css-dropdown-menu-wordpress/
+	http://wordpress-tuts.blogspot.com/2010/01/how-to-add-drop-down-menu-in-word-press.html
+	http://techblog.kjodle.net/2011/08/25/create-custom-menus-in-wordpress/
+	http://www.vanseodesign.com/wordpress/how-to-create-a-dropdown-menu-in-wordpress/
+	http://themeshaper.com/2009/02/09/adding-class-wordpress-page-menu/
+	https://wordpress.org/themes/motif/
+	https://wordpress.org/themes/sequential/
+	http://www.vanseodesign.com/wordpress/wp-page-templates-dropdown/
+	http://www.vanseodesign.com/wordpress/hightlight-current-page-wordpress/
+	http://techblog.kjodle.net/2011/08/25/create-custom-menus-in-wordpress/
+	http://designdisease.com/wordpress-responsive-drop-down-menu-tutorial/
+	http://www.wpbeginner.com/beginners-guide/how-to-add-titles-in-wordpress-menu-without-linking-to-a-page/
+	http://minimadesigns.com/how-to-create-and-show-navigation-menus-in-wordpress
+	http://para.llel.us/support/tutorials/linking-menu-items-to-sections-on-the-same-page/
+	https://thrivethemes.com/tkb_item/category-menu/
+	https://siteorigin.com/vantage-documentation/setting-up-your-menu/
+	
+	
+	
+	http://www.youtube.com/watch?v=ybow7FytaKw
+	https://wordpress.org/plugins/tags/dropdown
+	https://wordpress.org/plugins/ryans-suckerfish-wordpress-dropdown-menu/
+	
+
+http://webdesignerhut.com/css-dropdown-menu/
+http://www.videojug.com/film/css-horizontal-drop-down-menu-1-of-2
+https://perishablepress.com/wordpress-plugin-ses-pro/
+https://plugin-planet.com/
+http://wproots.com/using-wordpress-post-formats-to-their-fullest/
+http://designdisease.com/create-a-redbox-website-template-tutorial-psd/
+http://acroweb.co.uk/user-logged-in-shortcode/
+http://webdesignerhut.com/wordpress-child-themes/
+http://webdesignerhut.com/delete-unused-tables-from-your-wordpress-database/
+https://theme-fusion.com/support/documentation/avada-documentation/#page-item-151240
+===========================================
+
+
 + Search google 
   https://www.google.com.vn/#q=create+menu+in+wordpress&start=30
 + Keyword for create new menu
