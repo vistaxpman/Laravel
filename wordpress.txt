@@ -1,3 +1,20 @@
++ Từ khóa
+Improve your WordPress Navigation Menu Output
+How to add "active" class to wp_nav_menu
+How to add class to link in wp_nav_menu		
+wp_nav_menu Add custom class to ul wrap
++ How to add class and element to <a>-tag in sub-menu 
+
+https://www.google.com/search?q=set+class+active+menu+%2B+wp_nav_menu&ie=utf-8&oe=utf-8#q=check+menu+parent+in+wp_nav_menu
+http://code.tutsplus.com/tutorials/understanding-the-walker-class--wp-25401
+http://stackoverflow.com/questions/6906114/trouble-highlighting-correct-menu-parent-with-wp-nav-menu-classes-while-viewing
+http://wordpress.stackexchange.com/questions/16818/add-has-children-class-to-parent-li-when-modifying-walker-nav-menu
+http://wordpress.stackexchange.com/questions/37179/wp-nav-menu-check-if-the-list-item-has-children-and-add-a-class-to-anchor-link
+http://christianvarga.com/how-to-get-submenu-items-from-a-wordpress-menu-based-on-parent-or-sibling/
+http://kwight.ca/2012/04/23/adding-a-sub-menu-indicator-to-parent-menu-items/
+http://wpquestions.com/question/showChrono/id/3321
+
+============================================================================
 https://www.google.com.vn/#q=create+drop+down+menu+for+wordpress&start=50
 + Tổng hợp project wordpress
 	http://acroweb.co.uk/portfolio/
