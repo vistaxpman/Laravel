@@ -1,3 +1,74 @@
+== 16 - 07 - 2015	
++ Từ khóa
+	Custom post type singular menu class active
+	
+	Active class for custom post page
+	https://www.google.com/search?q=active+class+for+custom+post+pages
+	
+	
++ Highlight menu trong wordpress  
+	http://kwight.ca/2012/04/23/adding-a-sub-menu-indicator-to-parent-menu-items/
+	http://www.widecodes.com/0JxeWPkUkg/trouble-highlighting-correct-menu-parent-with-wpnavmenu-classes-while-viewing-single-posts.html
+	http://wordpress.stackexchange.com/questions/134409/wp-nav-menu-not-highlighting-the-current-category-when-viewing-a-single-post
+	http://w3facility.org/question/trouble-highlighting-correct-menu-parent-with-wp_nav_menu-classes-while-viewing-%E2%80%9Csingle-posts%E2%80%9D/
+	https://wordpress.org/support/topic/wp_nav_menu-highlighting-parent-menu-only
+	https://wordpress.org/support/topic/wp_nav_menu-parent-page-highlight
+	http://gotoanswer.com/?q=Trouble+highlighting+correct+menu+parent+with+wp_nav_menu+classes+while+viewing+%E2%80%9Csingle+posts%E2%80%9D
+	http://www.whatx.net/questions/30839367/menu-without-label-wp
+	http://wproots.com/how-to-style-wordpress-menus-dropdowns/
+	https://discourse.roots.io/t/custom-post-type-singular-menu-class-active/775/17
+	https://teamtreehouse.com/forum/nav-menu-currentitemparent-not-avaliable
+	http://premium.wpmudev.org/blog/add-menus-to-wordpress/
+	http://justintadlock.com/archives/2010/06/01/goodbye-headaches-hello-menus
+	
++ Templatel liên quan 	
+		http://themeforest.net/category/wordpress/blog-magazine
+		
+IMBT - Internet Marketing Blog Theme
+stylishthemes
+
+
+		
+		- can tim
+		Courage - WordPress Creative Blog Theme 
+		http://themeforest.net/item/courage-wordpress-creative-blog-theme/11923040
+		http://demo.color-theme.com/?theme=Courage
+		http://elite-themes.com/courage/category/travel/
+		
+		
+		Vania - Responsive WordPress News Theme 
+		http://themeforest.net/item/vania-responsive-wordpress-news-theme/11958659
+		http://inibot.net/vania/typography/
+		
+		
+		North Shore - A Responsive WordPress Blog Theme 
+		http://themeforest.net/item/north-shore-a-responsive-wordpress-blog-theme/11820718
+		http://demo.p12r.com/northshore/category/lifestyle/
+		
+		Best Way - Responsive WordPress Blog Theme 
+		http://themeforest.net/item/best-way-responsive-wordpress-blog-theme/11769806
+		http://themes.themelions.com/bestway/portfolio/
+		
+		Aerial - Layers Magazine WordPress Theme 
+		http://themeforest.net/item/aerial-layers-magazine-wordpress-theme/full_screen_preview/11952293
+	
+	UMag - Responsive WordPress News / Magazine Theme 
+	http://themeforest.net/item/umag-responsive-wordpress-news-magazine-theme/11953453
+	
+	Apemag: Ad & AdSense ready magazine. Review system 
+	http://themeforest.net/item/apemag-ad-adsense-ready-magazine-review-system/11909134
+	
+	Decoblog - Lifestyle / Personal Blog Theme 
+	http://themeforest.net/item/decoblog-lifestyle-personal-blog-theme/11857123
+	
+	 Mesar - Onepage Personal/Portofolio WordPress Theme 
+	http://themeforest.net/item/mesar-onepage-personalportofolio-wordpress-theme/11869417
+	
+	
+	
+	
+=======
+
 + Từ khóa
 Improve your WordPress Navigation Menu Output
 How to add "active" class to wp_nav_menu
