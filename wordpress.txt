@@ -1,3 +1,11 @@
+- Tìm và tải các theme sau
+	http://organicthemes.com/themes/
+	http://www.themevan.com/tumblr/?theme=silentAlley
+	http://pronulled.com/category/blog-themes/
+	http://kingtheme.net/
+	http://wplocker.com/
+	http://gfxfree.net/
+
 == 16 - 07 - 2015	
 + Từ khóa
 	Custom post type singular menu class active
