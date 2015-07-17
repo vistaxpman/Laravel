@@ -1,3 +1,241 @@
+
+== 17 - 07 - 2015
+http://organicthemes.com/themes/
+http://www.themevan.com/tumblr/?theme=silentAlley
+http://pronulled.com/category/blog-themes/
+http://kingtheme.net/
+http://wplocker.com/
+http://gfxfree.net/
+
+	+ User create template
+		- http://themeforest.net/user/WEBNUS/portfolio
+		- http://themeforest.net/user/Dannci/portfolio
+		- http://themeforest.net/user/themestockyard/portfolio ( check done )
+		- http://themeforest.net/user/codexcoder/portfolio
+		- http://themeforest.net/user/kayapati/portfolio
+		- http://themeforest.net/user/WPExplorer/portfolio
+		- http://themeforest.net/user/WPmines/portfolio
+		- http://themeforest.net/user/GBJsolution/portfolio
+		- http://themeforest.net/user/pego/portfolio
+		- http://themeforest.net/user/maarcin/portfolio
+		- http://themeforest.net/user/sunflowertheme/portfolio
+		- http://themeforest.net/user/jk_theme/portfolio
+		- http://themeforest.net/user/Tokokoo/portfolio
+		- http://themeforest.net/user/wopethemes/portfolio ( check done )
+		- http://themeforest.net/user/UXbarn/portfolio ( check done )
+		
+		
+		
+	- Framework
+		https://reduxframework.com/
+		https://wordpress.org/plugins/option-tree/
+		
+		
+		
+	- Check toi day
+	http://themeforest.net/category/wordpress/blog-magazine?page=5
+	Violet - Clean Responsive WordPress Blog Theme
+	
+	+ DeVoe - Fashion & Entertainment News Theme 
+	http://themeforest.net/item/devoe-fashion-entertainment-news-theme/11228746
+		- Themeforest DeVoe v1.0.3 – Fashion & Entertainment News Theme
+		http://kingtheme.net/themeforest-devoe-v1-0-3-fashion-entertainment-news-theme/
+	
+	+  Selfy - Responsive & Retina Ready WordPress Theme ( good )
+	http://themeforest.net/item/selfy-responsive-retina-ready-wordpress-theme/5135896
+		- Selfy - Themeforest Responsive & Retina Ready WordPress Theme
+		http://www.wplocker.com/themes/themeforest/1434-selfy-themeforest-responsive-retina-ready-wordpress-theme.html
+		- Selfy v1.0- Responsive & Retina Ready WordPress Theme – Themeforest
+		http://prefiles.com/dck777mx2n12/selfy10.rar
+		- Selfy – Responsive & Retina Ready WordPress Theme
+		http://prefiles.com/yskpumt12udu/selfy.rar
+		- Selfy – Personal Site Template HTML
+		http://prefiles.com/0dg12yor1sq6/themeforest-4523867-selfy-personal-site-template.zip
+		http://kingtheme.net/themeforest-selfy-personal-site-template/
+		
+	+ Kodax - Full Screen Landing Page ( good )
+	http://themeforest.net/item/kodax-full-screen-landing-page/6354562
+	http://www.wplocker.com/themes/themeforest/4231-kodax-v14-themeforest-wp-full-screen-landing-page.html
+	
+	+ Soap - Creative Business Portfolio  ( good )
+	http://themeforest.net/item/soap-creative-business-portfolio/5771544
+	http://themecanon.net/themes/soap-dark/category/random-awesome/
+	http://www.wplocker.com/themes/themeforest/1573-soap-themeforest-creative-business-portfolio.html
+	
+	+ Lamoon - Responsive WordPress Theme ( good )
+	http://themes.uxbarn.com/?theme=lamoon_wp
+	http://themeforest.net/item/lamoon-responsive-wordpress-theme/3064132
+		- Lamoon v3.2.1 – Responsive WordPress Theme
+		http://kingtheme.net/themeforest-lamoon-v3-2-1-responsive-wordpress-theme/
+		- Lamoon v.3.1 – Responsive WordPress Theme
+		http://kingtheme.net/themeforest-lamoon-v-3-1-responsive-wordpress-theme/
+		
+		
+	+ Fineliner - Responsive Portfolio WordPress Theme
+	http://themeforest.net/item/fineliner-responsive-portfolio-wordpress-theme/6363903
+	http://themes.uxbarn.com/wp/fineliner/portfolio-3-columns/
+		- Themeforest Fineliner v1.5.0 – Responsive Portfolio WordPress Theme
+		http://kingtheme.net/themeforest-fineliner-v1-5-0-responsive-portfolio-wordpress-theme/
+		- ThemeForest Fineliner – Responsive Portfolio HTML Template
+		http://kingtheme.net/themeforest-fineliner-responsive-portfolio-html-template/
+	
+	+ Archtek – Themeforest Responsive Modern HTML Template
+	http://buzzgfx.com/templates/download-archtek-themeforest-responsive-modern-html-template.html
+	http://prefiles.com/95xnvqhcqp5o/archtek.rar
+	
+	+ Nosh - Restaurant and Bar WordPress Theme ( good )
+	http://themeforest.net/item/nosh-restaurant-and-bar-wordpress-theme/8060983
+	http://kingtheme.net/themeforest-nosh-v2-2-2-restaurant-and-bar-wordpress-theme/
+	
+	+ Cake - Responsive Multi-Purpose WordPress Theme 
+	http://themeforest.net/item/cake-responsive-multipurpose-wordpress-theme/6913568
+	http://www.wplocker.com/themes/themeforest/5567-cake-v145-responsive-multi-purpose-wordpress-theme.html
+	http://themes.muffingroup.com/?theme=cake
+	
+	
+	+ Expert - Blog Wordpress Theme for Marketer 
+	http://themeforest.net/item/expert-blog-wordpress-theme-for-marketer/11469710
+		- Expert v1.2.1 - Blog Wordpress Theme for Marketer ( good )
+		http://www.wplocker.com/themes/themeforest/5475-expert-v121-blog-wordpress-theme-for-marketer.html
+		http://kingtheme.net/themeforest-expert-v1-2-1-blog-wordpress-theme-for-marketer/
+	
+	+ Karo v1.0.5 – Magazine WordPress theme
+	http://kingtheme.net/themeforest-karo-v1-0-5-magazine-wordpress-theme/
+	
+	+ Avantgarde - Themeforest Creative Wordpress Theme
+	http://www.wplocker.com/themes/themeforest/1574-avantgarde-themeforest-creative-wordpress-theme.html
+	
+	+ People Premium Business WordPress Theme ( good )
+	http://themeforest.net/item/people-premium-business-wordpress-theme/2959437
+		- +People - Premium Business WordPress Theme
+		http://www.wplocker.com/themes/themeforest/5041-people-premium-business-wordpress-theme.html
+		http://wordpress.thebebel.com/showcase/people/2012/08/24/a-sample-post/
+	
+	+ Blogo - Themeforest Stylish WP Theme for Creative Bloggers
+	http://themeforest.net/item/blogo-responsive-wp-theme-for-creative-bloggers/5242888
+	http://dodoweb.eu/envato/wp/blogo/typography/
+		- Blogo - Themeforest Stylish WP Theme for Creative Bloggers
+		http://www.wplocker.com/themes/themeforest/1390-blogo-themeforest-stylish-wp-theme-for-creative-bloggers.html
+	
+	+ Atlas Directory & Listings v2.3.6 – Premium WordPress Theme
+	http://themeforest.net/item/atlas-directory-listings-premium-wordpress-theme/5736374
+	http://kingtheme.net/themeforest-atlas-v2-3-1-directory-listings-premium-wordpress-theme/
+	http://kingtheme.net/themeforest-atlas-directory-listings-v2-3-6-premium-wordpress-theme/
+	
+	+ SHINE - Responsive Portfolio WordPress Theme
+	http://www.wplocker.com/themes/themeforest/2519-shine-responsive-portfolio-wordpress-theme.html
+	
+	+ NUVO - Cafe & Restaurant WordPress Theme ( good )
+	http://themeforest.net/item/nuvo-cafe-restaurant-wordpress-theme/9001349
+	http://demo.cmssuperheroes.com/Wordpress/wp-nuvo/home-full-screen-2/
+	http://demo.cmssuperheroes.com/?sid=6194#wp_nuvo
+		- ThemeForest NUVO v.2.5 – Restaurant, Cafe & Bistro WordPress Theme
+		http://kingtheme.net/themeforest-nuvo-v-2-5-restaurant-cafe-bistro-wordpress-theme/
+		- ThemeForest NUVO v4.5 – Cafe & Restaurant WordPress Theme
+		http://kingtheme.net/themeforest-nuvo-v4-5-cafe-restaurant-wordpress-theme/
+
+	+ Spectrum - Multi-Trade Construction Business Theme
+	http://themeforest.net/item/spectrum-multitrade-construction-business-theme/10259946
+	http://www.wplocker.com/themes/themeforest/5142-spectrum-multi-trade-construction-business-theme.html
+	
+	
+	http://themeforest.net/item/pro-business-responsive-multipurpose-theme/7644084
+	http://demo.cmssuperheroes.com/Wordpress/probusiness/about-us/
+		- ThemeForest – PRO Business v.1.0.0 – Responsive Multi-Purpose Theme
+		http://kingtheme.net/themeforest-pro-business-v-1-0-0-responsive-multi-purpose-theme/
+		- ThemeForest PRO Business v1.9.1 – Responsive Multi-Purpose Theme
+		http://kingtheme.net/themeforest-pro-business-v1-9-1-responsive-multi-purpose-theme/
+		
+	+ Staggerly - Responsive News, Magazine & Blog Theme 
+	http://themeforest.net/item/staggerly-responsive-news-magazine-blog-theme/4759941
+	http://themestockyard.com/demo/?theme=staggerly 
+	http://www.wplocker.com/themes/themeforest/1276-staggerly-themeforest-responsive-news-magazine-blog-theme.html
+	http://buzzgfx.com/wordpress/download-staggerly-responsive-news-magazine-blog-theme.html
+	
+	+ Magalla Magazine, News and Blog HTML Template
+	http://buzzgfx.com/templates/download-magalla-magazine-news-and-blog-html-template.html
+	http://prefiles.com/wecsmbvdup57/magalla.rar
+	
+	+  Papillon - Creative WordPress Blog Theme ( good )
+	http://themeforest.net/item/papillon-creative-wordpress-blog-theme/10301816
+	http://webnus.biz/themes/papillon-wp/elements/
+		- Themeforest Papillon v2.0.3 – Creative WordPress Blog Theme
+		http://kingtheme.net/themeforest-papillon-v2-0-3-creative-wordpress-blog-theme/
+	
+	+ Quentin v1.0.4 – Premium Multipurpose WordPress Theme – ThemeForest
+	http://buzzgfx.com/wordpress/download-quentin-v1-0-4-premium-multipurpose-wordpress-theme-themeforest.html
+	http://prefiles.com/peob75cmsp2e/quentin_104.rar
+	http://themeforest.net/item/quentin-premium-multipurpose-wordpress-theme/4710256
+	
+ 	+ Mexin v1.1.0 – Premium Multipurpose Responsive Theme – ThemeForest
+	http://buzzgfx.com/wordpress/download-mexin-v1-1-0-premium-multipurpose-responsive-theme-themeforest.html
+	http://prefiles.com/zenzix1bj239/mexin110.rar
+	
+	+ Florida v1.4.0 – Premium Multipurpose Responsive Template
+	http://buzzgfx.com/templates/florida-v1-4-0-premium-multipurpose-responsive-template.html
+	http://prefiles.com/9ay2rd1k7mzd/floridahtml140.rar
+	http://buzzgfx.com/?s=florida&scat=all
+	
+	+ Florida - Multipurpose Responsive Theme 
+	http://themeforest.net/item/florida-multipurpose-responsive-theme/6609201
+	
+	+ Florida v6.2.1 – Premium Multipurpose Responsive Theme
+	http://kingtheme.net/themeforest-florida-v6-2-1-premium-multipurpose-responsive-theme/
+	
+	
+	+ Extent v1.0.2 – Premium Multipurpose Responsive Template
+	http://kingtheme.net/themeforest-extent-v1-0-2-premium-multipurpose-responsive-template/
+	
+	+ Extent v1.0.4 – Premium Multipurpose Responsive Template
+	http://kingtheme.net/themeforest-extent-v1-0-4-premium-multipurpose-responsive-template/
+	http://themeforest.net/item/extent-another-wordpress-theme/8508000
+	
+	+ Wedding Suite - WordPress Wedding Theme 
+	http://themeforest.net/item/wedding-suite-wordpress-wedding-theme/9945596
+		- ThemeForest Wedding Suite v1.1.0 – WordPress Wedding Theme
+		http://kingtheme.net/themeforest-wedding-suite-v1-1-0-wordpress-wedding-theme/
+		- Themeforest Wedding Suite v1.2.1 – WordPress Wedding Theme
+		http://kingtheme.net/themeforest-wedding-suite-v1-2-1-wordpress-wedding-theme/
+	
+	+ Blogist - Themeforest Personal Blog theme
+	http://themeforest.net/item/blogist-personal-blog-theme/6018178
+	http://www.wplocker.com/themes/themeforest/1597-blogist-themeforest-personal-blog-theme.html
+	
+	+ Nitro v2.2 - Themeforest Responsive MultiPurpose Theme
+	http://www.wplocker.com/themes/themeforest/2830-nitro-themeforest-responsive-multipurpose-theme.html
+	http://buzzgfx.com/wordpress/nitro-v2-2-responsive-multipurpose-theme.html
+	
+	+ DesSign Creative Blog Responsive WordPress Theme v2.0.1
+	http://dessign.net/creativeblog-responsive-theme/
+	http://kingtheme.net/dessign-creative-blog-responsive-wordpress-theme-v2-0-1/
+	
+	+ Lavan - Fashion Model Agency WordPress CMS Theme 
+	http://themeforest.net/item/lavan-fashion-model-agency-wordpress-cms-theme/102762
+	http://www.wplocker.com/themes/themeforest/3947-lavan-v284-fashion-model-agency-wordpress-cms-theme.html
+	http://kingtheme.net/themeforest-lavan-v2-8-4-fashion-model-agency-wordpress-cms-theme/
+	
+	+ Modelish - A Unique Photography WordPress Theme
+	http://www.wplocker.com/themes/themeforest/4969-modelish-a-unique-photography-wordpress-theme.html
+	http://themeforest.net/item/modelish-a-unique-photography-wordpress-theme/4501792
+	
+	+ Modello v1.3.6 - Responsive eCommerce WordPress Theme
+	http://themeforest.net/item/modello-responsive-ecommerce-wordpress-theme/8115240
+	http://www.wplocker.com/themes/themeforest/4249-modello-v136-responsive-ecommerce-wordpress-theme.html
+	
+	+ Fashionista - Themeforest Responsive WordPress Blog Theme ( good )
+	http://themeforest.net/item/fashionista-responsive-wordpress-blog-theme/3050123
+	http://wpexplorer-demos.com/fashionista/category/beauty/
+		- Fashionista v3.2 - Responsive WordPress Blog Theme
+		www.wplocker.com/themes/themeforest/2351-fashionista-v32-responsive-wordpress-blog-theme.html
+		
+		- Fashionista - Themeforest Responsive WordPress Blog Theme
+		http://www.wplocker.com/themes/themeforest/1662-fashionista-themeforest-responsive-wordpress-blog-theme.html
+		
+		- Themeforest – Fashionista v1.5 Responsive WordPress Blog Theme
+		http://kingtheme.net/themeforest-fashionista-v1-5-responsive-wordpress-blog-theme/
+	
+	
+=======	
 - Tìm và tải các theme sau
 	http://organicthemes.com/themes/
 	http://www.themevan.com/tumblr/?theme=silentAlley
