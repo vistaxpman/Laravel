@@ -1,3 +1,17 @@
+== 20 - 07 - 2015
++ Dùng để lưu toàn bộ trang web ra image ( add on cho firefox )
+https://addons.mozilla.org/en-US/firefox/addon/abduction/	
+
++ Hiện comment link
+https://codex.wordpress.org/Function_Reference/comments_popup_link
+	- Ví dụ
+	<?php
+	  comments_popup_link( 'No comments yet', '1 comment', '% comments', 'comments-link', 'Comments are off for this post');
+	?>
+
++ Paging trong wordpress
+https://lesterchan.net/portfolio/programming/php/
+
 
 == 17 - 07 - 2015
 http://organicthemes.com/themes/
