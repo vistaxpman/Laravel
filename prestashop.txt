@@ -3,4 +3,9 @@ C:\wamp\www\prestashop\modules\productcomments\productcomments_reviews.tpl
 C:\wamp\www\prestashop\themes\default-bootstrap\modules\productcomments\productcomments.tpl
 C:\wamp\www\prestashop\themes\default-bootstrap\modules\productcomments\productcomments-extra.tpl
 /themes/pts_vela/js/modules/productcomments/js/productcomments.js
+
 http://presta-demo.com/legenda/demo/children-toys/en/summer-dresses/5-printed-summer-dress.html
+http://presta-demo.com/legenda/
+
+http://themeforest.net/item/glorious-prestashop-responsive-theme/full_screen_preview/12044108
+http://prestashop-demos.org/PRS07/PRS070164/PRS02/en/nokia-player/5-printed-summer-dress.html#idTab5
