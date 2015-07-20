@@ -1,0 +1,6 @@
+
+C:\wamp\www\prestashop\modules\productcomments\productcomments_reviews.tpl
+C:\wamp\www\prestashop\themes\default-bootstrap\modules\productcomments\productcomments.tpl
+C:\wamp\www\prestashop\themes\default-bootstrap\modules\productcomments\productcomments-extra.tpl
+/themes/pts_vela/js/modules/productcomments/js/productcomments.js
+http://presta-demo.com/legenda/demo/children-toys/en/summer-dresses/5-printed-summer-dress.html
