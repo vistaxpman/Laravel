@@ -1,3 +1,87 @@
+== 21 - 07 - 2015
+http://callmenick.com/_development/memory/
+
++ Từ khóa
+	- Ways to Reset the WordPress Loop
++ Khóa học cho Wordpress
+https://teamtreehouse.com/zgordon
+
+
+/* desktop style */	
+.content-area {
+	float: left;
+	width: 100%;
+	border: 1px blue dashed;
+	margin-left: -300px;
+	padding-left: 300px;
+}
+
++ register_nav_menu
+http://www.paulund.co.uk/how-to-register-menus-in-wordpress
+
+function register_menu() {
+	register_nav_menu( 'primary-menu' , __( 'Primary Menu' ) );
+}
+add_action( 'init', 'register_menu' );
+
++ Hiển thị custom menu lên trên front end
+if( has_nav_menu( 'primary-menu' ) ) {
+	wp_nav_menu( array( 'theme_location' => 'primary-menu' ));
+}
+
+http://wpseek.com/function/register_nav_menu/
+http://maddisondesigns.com/2010/07/adding-a-wordpress-3-0-menu-to-your-theme/
+http://www.lanexa.net/2013/03/adding-custom-menu-locations-in-wordpress-themes/
+http://code.tutsplus.com/tutorials/creating-a-wordpress-theme-from-static-html-adding-navigation--wp-34032
+http://maddisondesigns.com/2014/11/creating-multilingual-site-wpml/
+http://maddisondesigns.com/2014/06/wordpress-visual-editor-mastery/
+http://maddisondesigns.com/2014/05/getting-know-wordpress-guest-lecture/
+http://www.wpbeginner.com/wp-themes/how-to-create-a-grid-display-of-post-thumbnails-in-wordpress-themes/
+http://bueltge.de/wordpress-query-quick-tipps/717/
+https://www.onedesigns.com/tutorials/how-to-create-a-wordpress-theme-options-page
+http://callmenick.com/post/create-a-wordpress-custom-archive-page
+
++ Thông tin chi tiết của template type
+http://codex.wordpress.org/images/9/96/wp-template-hierarchy.jpg
+https://developer.wordpress.org/files/2014/10/wp-template-hierarchy.jpg
+
++ Format ngày giờ
+https://codex.wordpress.org/Function_Reference/the_time
+https://codex.wordpress.org/Formatting_Date_and_Time
+
++ Cấu trúc chung cho một wordpress loop
+https://codex.wordpress.org/The_Loop
+http://blog.teamtreehouse.com/wordpress-loop-beginners-guide
+http://www.wpbeginner.com/glossary/loop/
+http://www.elegantthemes.com/blog/tips-tricks/the-wordpress-loop-explained-for-beginners
+
+	- Template mẫu
+	<?php if( have_posts() ) : while( have_posts ) : the_posts(); ?>
+	<!-- Show loop data ?>
+	<?php endwhile; else : ?>
+	<?php echo __e( 'Sorry, no posts matched your criteria.' ); ?>
+	<?php endif; ?>
+
+	- Khi cần reset lại câu query
+	https://digwp.com/2011/09/3-ways-to-reset-the-wordpress-loop/
+	<?php rewind_posts(); ?>
+	
+	- Paging trong wordpress loop
+	https://www.google.com/search?q=wordpress+loop&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a&channel=fflb#q=wordpress+loop+pagination&channel=fflb&start=20
+		- can tim
+		http://sgwordpress.com/teaches/how-to-add-wordpress-pagination-without-a-plugin
+	https://codex.wordpress.org/Pagination
+	https://wordpress.org/support/topic/adding-pagination-to-a-wp_query-loop
+	http://callmenick.com/post/custom-wordpress-loop-with-pagination
+	http://www.wpexplorer.com/pagination-wordpress-theme/
+	http://adambalee.com/how-to-add-pagination-to-your-wordpress-blog-without-a-plugin/
+	http://www.billerickson.net/code/pagination-in-a-custom-query/
+	http://www.rlmseo.com/blog/wordpress-pagination-in-custom-loop/
+	https://css-tricks.com/snippets/wordpress/paginate-custom-post-types/
+	http://devotepress.com/wordpress-coding/wordpress-custom-loop-pagination-2/#.Va4bF6x-Ycs
+	http://www.kriesi.at/archives/how-to-build-a-wordpress-post-pagination-without-plugin
+	http://www.steckinsights.com/offset-posts-genesis-framework-without-losing-pagination/#.Va4bHax-Ycs
+	
 == 20 - 07 - 2015
 + Dùng để lưu toàn bộ trang web ra image ( add on cho firefox )
 https://addons.mozilla.org/en-US/firefox/addon/abduction/	
