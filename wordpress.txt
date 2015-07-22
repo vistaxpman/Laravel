@@ -4,7 +4,8 @@
 	- Popular post 
 	- Recent comments
 	- Archive
-	- Chuyển toàn bộ loop vào trong get_template_patr
+	- Latest Posts
+	- Chuyển toàn bộ loop vào trong get_template_part()
 
 == 21 - 07 - 2015
 http://callmenick.com/_development/memory/
