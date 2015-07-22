@@ -1,3 +1,11 @@
+== 23 - 07 - 2015
++ Comments Off on Template: Sticky -> thay bằng No Comments
++ Cách hiện 
+	- Popular post 
+	- Recent comments
+	- Archive
+	- Chuyển toàn bộ loop vào trong get_template_patr
+
 == 21 - 07 - 2015
 http://callmenick.com/_development/memory/
 
