@@ -1,3 +1,10 @@
+== 24 - 07 - 2015
+	- Custom template cho 
+		- Popular Post
+		- Recent Comments
+		- Archive
+	
+	- Send email when submit contact
 == 23 - 07 - 2015
 + Comments Off on Template: Sticky -> thay bằng No Comments
 	- Thay bằng đoạn code sau đây
