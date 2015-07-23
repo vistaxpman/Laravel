@@ -1,11 +1,30 @@
 == 23 - 07 - 2015
 + Comments Off on Template: Sticky -> thay bằng No Comments
-+ Cách hiện 
-	- Popular post 
+	- Thay bằng đoạn code sau đây
+	<?php comments_popup_link('0 comments', '1 comment', '% comments', 'comments-link', 'Comments off'); ?>	
+	<?php comments_popup_link('0 comments', '1 comment','% comments', 'comments-link', false); ?>
+	<?php comments_popup_link(__('Comments (0)'), __('Comments (1)'), __('Comments (%)')); ?>
+	//change $none = 'Comments Off' to $none = ''
+	function comments_popup_link( $zero = 'No Comments', $one = '1 Comment', $more = '% Comments', $css_class = '', $none = '' )
++ Cách hiện
+	- Popular post
 	- Recent comments
 	- Archive
 	- Latest Posts
 	- Chuyển toàn bộ loop vào trong get_template_part()
+
++ Tìm hiểu các hàm sau
+	- wp_parse_args
+	- lấy user hiện tại
+	wp_get_current_user
+
+	
++ Hàm để hiện comment có trong blog
+	- wp-includes\comment-template.php
+	function comments_popup_link( $zero = false, $one = false, $more = false, $css_class = '', $none = false )
+	
+	
+	
 
 == 21 - 07 - 2015
 http://callmenick.com/_development/memory/
