@@ -1,10 +1,90 @@
 == 24 - 07 - 2015
-	- Custom template cho 
-		- Popular Post
-		- Recent Comments
-		- Archive
++ Widgets API
+http://codex.wordpress.org/Widgets_API
+
++ Bài viết hay
+http://www.wpbeginner.com/beginners-guide/what-why-and-how-tos-of-creating-a-site-specific-wordpress-plugin/
+http://www.wpbeginner.com/wp-tutorials/how-to-add-a-shortcode-in-wordpress/
+http://www.wpbeginner.com/beginners-guide/how-to-add-featured-image-or-post-thumbnails-in-wordpress/
+https://wordpress.org/plugins/dynamic-featured-image/
+http://beginnersbook.com/2013/10/wordpress-tabbed-widget-displaying-popular-posts-sidebar/
+https://wpsniffer.com/tabber-tabs-widget-wordpress-plugin/3343
+https://ithemes.com/tutorials/
+http://www.paulund.co.uk/c/snippets/wordpress
+http://www.talkofweb.com/learn-wordpress-start-your-blog/
+http://www.talkofweb.com/tweaks-paginated-posts-wordpress/
+http://www.talkofweb.com/wordpress-meta-box-add-extra-input-fields-post/
+
++ Portfolio
+http://kingtheme.net/page/2/?post=Portfolio
+
++ Porfolio Wordpress
+
+
+	- Author
+		http://themeforest.net/user/GoodLayers
+		http://themeforest.net/user/IshYoBoy
+		http://themeforest.net/user/QODE
+
+	- Hotel Master v1.1.0 – Hotel Booking WordPress Theme
+	http://themeforest.net/item/hotel-master-hotel-booking-wordpress-theme/11032879
+	http://kingtheme.net/themeforest-hotel-master-v1-1-0-hotel-booking-wordpress-theme/
 	
-	- Send email when submit contact
+	- Boldial WP - Flat Creative Theme with 3D Portfolio 
+	http://themeforest.net/item/boldial-wp-flat-creative-theme-with-3d-portfolio/7771632
+	http://kingtheme.net/themeforest-boldial-wp-v1-9-flat-creative-theme-with-3d-portfolio/
+	
+	-  Bridge - Creative Multi-Purpose WordPress Theme 
+	http://themeforest.net/item/bridge-creative-multipurpose-wordpress-theme/7315054
+	http://kingtheme.net/themeforest-bridge-v7-1-creative-multi-purpose-wordpress-theme/
+	
+	-  DIGNITY - WordPress One Page Responsive Portfolio 
+	http://themeforest.net/item/dignity-wordpress-one-page-responsive-portfolio/6538685
+	http://kingtheme.net/themeforest-dignity-v-1-5-wordpress-one-page-responsive-portfolio/
+
++ Custom template cho
+	- Popular Post
+			- cần tìm
+				http://www.wpbeginner.com/wp-tutorials/how-to-add-jquery-tabber-widget-in-wordpress/
+				http://codecanyon.net/item/smart-tabber-widget/4682519
+				https://wordpress.org/support/topic/display-most-popular-posts-without-plugin-by-viewed-taxonomy
+				http://stackoverflow.com/questions/12570746/wordpress-get-5-popular-posts-by-views-without-plugin
+					- $popularpost  = new WP_Query( array( 'posts_per_page' => 5, 'meta_key' => 'wpb_post_views_count', 'orderby' => 'meta_value_num', 'order' => 'DESC'  ) );
+				http://premium.wpmudev.org/blog/daily-tip-display-your-most-popular-posts-in-the-last-30-days-without-a-plugin/
+				http://www.talkofweb.com/popular-wordpress-posts-using-visits-counter-without-plugin/
+				http://www.paulund.co.uk/add-popular-posts-in-wordpress-without-a-plugin
+				http://bacsoftwareconsulting.com/blog/index.php/wordpress-cat/how-to-display-most-viewed-posts-in-wordpress-without-a-plugin/
+				http://www.wpwordpress.com/how-to-display-most-popular-posts-without-a-wordpress-plugin/
+		http://www.wpbeginner.com/wp-tutorials/how-to-track-popular-posts-by-views-in-wordpress-without-a-plugin/
+		https://wordpress.org/plugins/wordpress-popular-posts/screenshots/
+		https://wordpress.org/plugins/tabber-tabs-widget/ ( đã lâu không cập nhật )
+		https://wordpress.org/plugins/wp-tabber-widget/
+		http://www.gopiplus.com/work/2012/11/10/tabber-widget-plugin-for-wordpress/#.VbGtc6x-Ycs
+		http://www.smashingmagazine.com/2013/04/create-tabber-widget-wordpress/
+		http://www.wpbeginner.com/wp-tutorials/display-popular-posts-by-day-week-month-and-all-time-in-wordpress/
+		
+	- Recent Comments
+	
+	
+	- Archive
+		- https://gist.github.com/sscovil/5808376
+		- http://www.schloebe.de/wordpress/simple-yearly-archive-plugin/
+		- https://perishablepress.com/better-wordpress-archives-via-dynamic-triple-column-layout/comment-page-1/
+		- http://www.wpcustoms.net/snippets/modify-custom-post-type-query-on-archive-page/
+		- https://wp-types.com/forums/topic/how-display-sub-category-terms-on-wordpress-archive/
+	http://www.wpbeginner.com/wp-tutorials/how-to-create-a-custom-post-types-archive-page-in-wordpress/
+	http://cdharrison.com/2010/07/how-to-display-total-number-of-custom-posts-on-a-wordpress-site/
+	https://en.support.wordpress.com/widgets/archives-widget/
+	http://www.prasannasp.net/wordpress-change-number-of-posts-on-archive-page/
+	http://wordpress.stackexchange.com/questions/72765/find-out-total-number-of-pages-in-global-query-on-archive-page
+	http://wordpress.stackexchange.com/questions/134613/how-do-you-get-the-count-of-posts-in-an-archive-page
+	https://wordpress.org/support/topic/how-to-show-the-number-of-posts-from-one-category-on-category-archive-page
+	https://wordpress.org/support/topic/how-to-display-total-number-of-posts-foundfetched
+	https://www.google.com/search?q=wordpress+popular+post+without+plugin&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a#q=show+total+post+in+archive+wordpress
+	
+	
+	
++ Send email when submit contact
 == 23 - 07 - 2015
 + Comments Off on Template: Sticky -> thay bằng No Comments
 	- Thay bằng đoạn code sau đây
