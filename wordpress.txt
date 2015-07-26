@@ -1,4 +1,15 @@
 == 24 - 07 - 2015
+ - Custom post type
+	Portfolio
+	Team
+	Upload multiple image
+	Format ( Video, Image ...)
+	Portfolio Filterable
+	Paging
+	Show, hide column in list portfolio
+
+
+== 24 - 07 - 2015
 + Widgets API
 http://codex.wordpress.org/Widgets_API
 
