@@ -1,12 +1,84 @@
-== 24 - 07 - 2015
- - Custom post type
+== 27 - 07 - 2015
+https://www.google.com.vn/#q=create+custom+post+type+wordpress&start=30
++ Từ khóa
+WordPress Custom Post Types and Advanced Custom Fields
+
++ Tải các template có trên elegantthemes
+https://www.elegantthemes.com/
+http://www.elegantthemes.com/gallery/divi/
+
++ Bài viết hay
+http://cmsmess.com/page/2/
+http://cmsmess.com/theme-organization-clean-functions-wordpress/
+http://wordpress.faq.edu.vn/lap-trinh-theme-wordpress-viet-code-cho-file-functions-php/
+http://thachpham.com/wordpress/wordpress-development/huong-dan-action-filter-toan-tap.html
+http://thachpham.com/wordpress/wordpress-development/cach-tao-action-hook-va-filter-hook.html
+http://thachpham.com/wordpress/wordpress-development/huong-dan-tao-widget.html
+http://wpengineer.com/2237/whats-the-difference-between-__-_e-_x-and-_ex/
+http://www.deluxeblogtips.com/2015/07/include-post-content.html
+http://thachpham.com/
+http://www.weareo3.com/wordpress-custom-post-type-generator/
+http://themergency.com/generators/wordpress-custom-post-types/
+
++ register_post_type
+	https://codex.wordpress.org/Function_Reference/register_post_type
+	<?php register_post_type( $post_type, $args ); ?> 
+	
+		https://www.elegantthemes.com/blog/tips-tricks/creating-custom-post-types-in-wordpress
+		http://www.wpbeginner.com/wp-tutorials/how-to-create-custom-post-types-in-wordpress/
+		http://thachpham.com/wordpress/wordpress-development/custom-post-type-toan-tap.html
+		http://www.smashingmagazine.com/2012/11/complete-guide-custom-post-types/
+		http://blog.teamtreehouse.com/create-your-first-wordpress-custom-post-type
+		http://www.paulund.co.uk/creating-a-custom-post-type
+		http://code.tutsplus.com/tutorials/a-guide-to-wordpress-custom-post-types-creation-display-and-meta-boxes--wp-27645
+		http://premium.wpmudev.org/blog/creating-content-custom-post-types/
+		http://www.freshconsulting.com/wordpress-custom-post-types-advanced-custom-fields/
+		https://wp-types.com/documentation/user-guides/create-a-custom-post-type/
+		http://webdevstudios.com/plugins/custom-post-type-ui/
+		http://www.1stwebdesigner.com/wordpress-plugin-development-course-for-designers-custom-post-type/
+		http://wptheming.com/2010/08/custom-metabox-for-post-type/
+		- hiện custom column trong list custom post type
+		http://colorlabsproject.com/tutorials/adding-custom-post-types-to-wordpress-theme/
+	
+		
+		
+	http://web-profile.com.ua/wordpress/docs/custom-post-types/
+	https://codex.wordpress.org/Post_Formats
+	http://justintadlock.com/archives/2013/09/13/register-post-type-cheat-sheet
+	http://generatewp.com/post-type/
+	http://thachpham.com/wordpress/wordpress-development/huong-dan-action-filter-toan-tap.html
+	https://managewp.com/custom-post-types-pt-1
+	
+	
++ Plugin tạo template cho Wordpress
+https://wordpress.org/plugins/timber-library/screenshots/
+	
+	 
+- Tìm hiểu các hàm sau
++ esc_attr__
+
++ get_search_query()
+
++ _x()
+http://wordpress.stackexchange.com/questions/20779/whats-different-between-x-and
+_x() let s you add a context to your strings. This is useful when you are using the same string in different places. This string may need different translations depending on the language.
+
+Your example would be :
+
+echo 'a1 in context 1 ' . _x('a1', 'context1', 'mydomain');
+echo 'a1 in context 2 ' . _x('a1', 'context2', 'mydomain');
+
++ __()
+
+
+- Custom post type
 	Portfolio
 	Team
 	Upload multiple image
 	Format ( Video, Image ...)
 	Portfolio Filterable
 	Paging
-	Show, hide column in list portfolio
+	Show, hide column in list portfolio	
 
 
 == 24 - 07 - 2015
