@@ -1,3 +1,61 @@
+== 28 - 07 - 2015
++ Bài viết hay
+http://masonry.desandro.com/
+http://www.smashingmagazine.com/2011/10/definitive-guide-wordpress-hooks/
+
++ Từ khóa
+Create custom field in categories and tags
+Adding Meta Data to Taxonomy Terms
+Custom Taxonomies in WordPress 2.8
+Custom taxonomy theme templates in WordPress
+
+
+
+Add Search Engine Title and Description Fields to Categories and Tags
+http://www.smashingmagazine.com/2011/10/definitive-guide-wordpress-hooks/
+
+
++ Hiện image trong featured image
+the_post_thumbnail();
+	- Phải đặt trong vòng lặp 'loop'
+
++ Tìm và cài đặt plugin
+Regenerate Thumbnails plugin	
+	
++ Custom Taxonomy ( register_taxonomy )
+https://www.google.com.vn/#q=order+custom+taxonomy+wordpress&start=40
+		- Cần tìm
+		https://pippinsplugins.com/adding-custom-meta-fields-to-taxonomies/
+		http://www.nsp-code.com/wordpress-plugins/category-order-and-taxonomy-terms-order/
+		http://code.tutsplus.com/articles/introducing-wordpress-3-custom-taxonomies--net-11658
+		https://wpbeaches.com/adding-custom-taxonomy-wordpress-posts-custom-post-types/
+		http://www.hongkiat.com/blog/wordpress-custom-taxonomy-for-users/
+		https://mondaybynoon.com/wordpress-archive-pages-taxonomy/
+		https://clarknikdelpowell.com/blog/the-right-way-to-do-wordpress-custom-taxonomy-rewrites/
+		http://shibashake.com/wordpress-theme/add-custom-taxonomy-tags-to-your-wordpress-permalinks
+		http://brennaobrien.com/blog/2013/11/autopopulating-wordpress-taxonomies.html
+		https://wordpress.org/plugins/custom-taxonomy-order-ne/
+		https://wordpress.org/plugins/taxonomy-terms-order/
+		https://wordpress.org/plugins/pods/
+		https://taxonomymanager.wordpress.com/
+		https://profiles.wordpress.org/dgourley/#content-plugins
+		
+	http://www.smashingmagazine.com/2011/10/definitive-guide-wordpress-hooks/
+	http://www.smashingmagazine.com/2012/01/create-custom-taxonomies-wordpress/
+	https://wordpress.org/plugins/taxonomy-metadata/
+	http://wordpress.stackexchange.com/questions/7440/change-order-of-custom-taxonomy-list
+	http://premium.wpmudev.org/blog/creating-custom-taxonomies-wordpress/
+	http://www.sitepoint.com/custom-wordpress-taxonomies/
+	https://wp-types.com/documentation/user-guides/creating-wordpress-custom-taxonomy-archives/
+	http://wpshout.com/create-wordpress-custom-taxonomies/
+	https://codeable.io/community/get-your-custom-taxonomy-urls-in-order/
+	http://eppand.com/how-to-order-custom-post-types-by-custom-taxonomy-in-wordpress/
+	
+	http://www.wpbeginner.com/wp-tutorials/create-custom-taxonomies-wordpress/
+	<?php the_terms( $post->ID, 'topics', 'Topics: ', ', ', ' ' ); ?>
+	
+	
+	
 == 27 - 07 - 2015
 https://www.google.com.vn/#q=create+custom+post+type+wordpress&start=30
 + Từ khóa
