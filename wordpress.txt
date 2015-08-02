@@ -1,3 +1,8 @@
+== 02 - 08 - 2015
+	+ Create, edit or delete option ( wp_option )
+	+ Validation form
+	+ Show meta data on grid
+	+ Custom column on custom post type
 == 28 - 07 - 2015
 + Bài viết hay
 http://masonry.desandro.com/
