@@ -1,3 +1,20 @@
+== 03 - 08 - 2015
++ Từ khóa
+Custom columns for custom post types
+https://www.google.com/search?q=sortable_columns+%2B+taxonomy+%2B+wordpress&ie=utf-8&oe=utf-8
+http://code.tutsplus.com/tutorials/a-guide-to-wordpress-custom-post-types-taxonomies-admin-columns-filters-and-archives--wp-27898
+http://justintadlock.com/archives/2011/06/27/custom-columns-for-custom-post-types
+http://justintadlock.com/archives/2010/04/29/custom-post-types-in-wordpress
+https://yoast.com/custom-post-type-snippets/
+https://make.wordpress.org/core/2012/12/11/wordpress-3-5-admin-columns-for-custom-taxonomies/
+http://www.billerickson.net/code/add-taxonomy-to-edit-post-columns/
+https://core.trac.wordpress.org/ticket/23421
+https://wordpress.org/support/topic/is-it-possible-to-order-custom-columns-by-a-custom-taxonomy
+http://premium.wpmudev.org/forums/topic/how-do-i-add-admin-column-sorting-to-custom-fields-and-taxonomies-with-custompress
+
++ Custom taxonomy
++ Add more column and sortable column
+
 == 02 - 08 - 2015
 	+ Create, edit or delete option ( wp_option )
 	+ Validation form
