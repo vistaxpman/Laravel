@@ -1,4 +1,94 @@
+== 04 - 08 - 2015
++ CV
+http://eser.ozvataf.com/downloads/laru-cv-en.pdf
 
++ Blade template helpers
+http://laravel.com/docs/helpers
+
+
++ Sample project with laravel
+https://github.com/bestmomo/laravel5-example
+https://github.com/bestmomo/scafold
+https://github.com/bestmomo/lumenangular
+https://github.com/bestmomo/laravel5-relations
+https://github.com/mrakodol/Laravel-5-Bootstrap-3-Starter-Site
+http://www.easylaravelbook.com/blog/2015/02/12/laravel-5-sample-application-code-now-available/
+https://mattstauffer.co/blog/laravel-5.0-form-requests
+https://github.com/wjgilmore/todoparrot
+http://laravel.io/forum
+https://laracasts.com/series/whats-new-in-laravel-5
+https://www.flynsarmy.com/2015/02/creating-a-basic-todo-application-in-laravel-5-part-1/
+https://github.com/illuminate3/rakko
+http://www.codeheaps.com/php-programming/creating-website-using-laravel-5-elixir-assets/
+http://arda.pw/whatthetag-a-sample-laravel-5-application/
+https://scotch.io/tutorials/login-with-the-built-in-laravel-5-scaffolding
+http://code.tutsplus.com/tutorials/using-laravel-5s-authentication-facade--cms-23461
+http://www.sitepoint.com/crud-create-read-update-delete-laravel-app/
+http://tutsnare.com/laravel-user-login-authentication-code-example/
+http://www.codetutorial.io/laravel-5-angularjs-tutorial/
+http://codecanyon.net/item/josh-laravel-admin-template-front-end-crud/8754542
+http://georgehk.blogspot.com/2015/04/crud-operations-in-laravel-5-with-mysql.html
+http://www.codeanchor.net/blog/complete-laravel-socialite-tutorial/
+https://almsaeedstudio.com/blog/integrate-adminlte-with-laravel
+http://blog.tommyku.com/blog/using-laravel-5-0-with-angularjs-part-1-of-5-setting-up-laravel-5-0
+https://sheepy85.wordpress.com/2014/09/30/laravel-5-authentication-filter-request-controller/
+http://www.richardbagshaw.co.uk/laravel-5-middleware/
+http://stackphp.com/middlewares/
+http://maxoffsky.com/code-blog/laravel-first-framework-chapter-5-understanding-controllers/
+https://wiki.bitnami.com/Components/PHP_Frameworks/Laravel
+http://mydnic.be/post/how-to-get-all-gmail-contacts-with-laravel-5
+https://laravel-news.com/blog/
+https://mattstauffer.co/blog/login-throttling-in-laravel-5.1
+http://phpgrid.com/example/phpgrid-laravel-5-twitter-bootstrap-3-integration/
+http://laravelsnippets.com/snippets/seeder-example
+http://blog.elliothesp.co.uk/coding/passing-parameters-middleware-laravel-5/
+http://www.slideshare.net/elvieel/bootstrat-rest-apis-with-laravel-5
+http://learninglaravel.net/tags/laravel5
+http://laravelcoding.com/blog/laravel-5-beauty-starting-the-admin-area
+http://advancedlaravel.com/eloquent-relationships-examples
+http://softonsofa.com/laravel-how-to-define-and-use-eloquent-global-scopes/
+http://heera.it/laravel-5-0-acl-using-middleware#.VcCKvax-Ycs
+https://www.yesdevnull.net/2015/02/using-x-xsrf-token-http-headers-for-ajax-in-laravel-5/
+http://slashnode.com/mastering-form-validation-laravel-5/
+http://alexsears.com/tutorial/create-admin-interface-laravel
+http://builtwithlaravel.com/
+https://selftaughtcoders.com/from-idea-to-launch/lesson-17/laravel-5-mvc-application-in-10-minutes/
+https://cartalyst.com/manual/nested-sets/3.0
+http://laravelcollective.com/docs/5.0/html
+http://captcha.com/doc/php/examples/laravel-form-validation-captcha-example.html
+http://simpledeveloper.com/laravel-resource-controller-example-code/
+http://www.dylanlindgren.com/laravel-development-docker-fig/
+http://engageinteractive.co.uk/blog/csrf-protection-with-ajax-and-laravel
+https://scaleyourcode.com/blog/article/5
+http://alanstorm.com/binding_objects_as_laravel_services
+http://www.codeproject.com/Articles/1006057/phpGrid-Laravel-and-Bootstrap
+http://www.developer.com/lang/php/test-better-deploy-faster-with-laravel.html
+http://slick.pl/kb/laravel/localization-in-laravel-5/
+http://grossi.io/2014/working-with-laravel-4-and-wordpress-together/
+https://solidmarkup.com/blog/using-omnipay-paypal-with-laravel
+https://www.digitalocean.com/community/tutorials/how-to-install-laravel-with-an-nginx-web-server-on-ubuntu-14-04
+https://blog.muya.co.ke/configure-custom-logging-in-laravel-5/
+
+
++ Free admin template with bootstrap 3
+https://almsaeedstudio.com/
+
++ Blade Template
+http://laravel-recipes.com/recipes/248/knowing-all-the-blade-template-commands
+
++ Deploy laravel host
+
+Josh - Laravel Admin Template + Front End + CRUD 
+http://codecanyon.net/item/josh-laravel-admin-template-front-end-crud/8754542
+
+http://laravel.com/docs/master/authentication
+http://laravel.com/docs/5.0/eloquent
+http://www.toptal.com/web/cookie-free-authentication-with-json-web-tokens-an-example-in-laravel-and-angularjs
+
+https://www.google.com.vn/#q=laravel+5+sample&start=20
+Xem toi trang 3
+
+======
 + 03 - 07 - 2015
 https://books.google.com.vn/books?id=BWO4CAAAQBAJ&pg=PP8&lpg=PP8&dq=laravel+ebook+pdf&source=bl&ots=89X6XuvIVU&sig=ndn_H-LmvI97yUEVb8iYFqWvuXo&hl=en&sa=X&ei=Tv-RVYP2EuKhmQX3xoCoBg&redir_esc=y#v=onepage&q=laravel%20ebook%20pdf&f=false
 
