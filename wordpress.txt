@@ -1,3 +1,100 @@
+== 07 - 08 - 2015
++ Tù khóa
+Adding Custom Meta Fields to Taxonomies
+Custom taxonomies extra fields
+Adding Custom Meta to WordPress Taxonomies
+Add Metadata to Categories 
+Add Metadata to Categories – WordPress
+
+Advanced Custom Taxonomies 
+http://codecanyon.net/item/advanced-custom-taxonomies/6697287
+
+wordpress sort by metadata categories
+
+
++ Format Post in wordpress
+
++ Horizontal Line in Visual Mode Button Bar
+
++ Nhứng video vào trong bài viết
+http://codex.wordpress.org/Embeds
+
+[video src="http://the-url-to-the-video.com" width="200" height="150"]
+
+
++ Add Term or Taxonomy Meta Data
+	http://code.tutsplus.com/tutorials/understanding-and-working-with-metadata-in-wordpress--cms-21034
+	http://austin.passy.co/2011/function-to-grab-the-id-of-a-custom-taxonomy/
+	http://code.tutsplus.com/articles/extending-the-quick-edit-tool-for-taxonomy-terms--wp-20495
+	
+	- Simple Meta Tags
+	http://premium.wpmudev.org/forums/topic/taxonomy-custom-meta-boxes
+	https://wordpress.org/plugins/simple-meta-tags/
+
+	- How to Create Your Own Custom WordPress Taxonomies
+	http://www.sitepoint.com/custom-wordpress-taxonomies/
+	
+	- tải plugin 
+	https://github.com/jtsternberg/Taxonomy_MetaData
+	
+	- Custom taxonomies extra fields
+	https://en.bainternet.info/wordpress-taxonomies-extra-fields-the-easy-way/ ( cách mới hơn và dễ hơn )
+	https://en.bainternet.info/custom-taxonomies-extra-fields/
+	
+	- Adding Custom Meta to WordPress Taxonomies
+	http://wpthemetutorial.com/2013/02/21/adding-custom-meta-to-wordpress-taxonomies/
+	
+	http://shibashake.com/wordpress-theme/shiba-plugin-and-theme-updates-for-wordpress-4-2
+	http://shibashake.com/wordpress-theme/add-term-or-taxonomy-meta-data
+	Cách này sẽ tạo ra một bảng mới trong wordpress và dùng nó để lưu lại thông tin của các meta data cho Taxonomy
+		
+	https://pippinsplugins.com/adding-custom-meta-fields-to-taxonomies/
+	
+	https://www.wphub.com/adding-metadata-taxonomy-terms/
+	http://www.deluxeblogtips.com/taxonomy-meta-script-for-wordpress/
+	http://www.advancedcustomfields.com/resources/get-values-from-a-taxonomy-term/
+	http://sabramedia.com/blog/how-to-add-custom-fields-to-custom-taxonomies
+	http://strangework.com/2010/07/01/how-to-save-taxonomy-meta-data-as-an-options-array-in-wordpress/
+	
+	- tags/4.2.2/src/wp-includes/meta.php 
+	https://core.trac.wordpress.org/browser/tags/4.2.2/src/wp-includes/meta.php#L0
+	
+	- get_metadata()
+	http://wordpress.stackexchange.com/questions/45199/return-all-custom-meta-data-for-one-custom-post-type
+	http://hookrefineandtinker.com/2015/02/meta-for-custom-objects-in-wordpress/
+	
+	
+	- How to Add Custom Meta Fields to Custom Taxonomies in WordPress
+	http://www.wpbeginner.com/wp-tutorials/how-to-add-additional-custom-meta-fields-to-custom-taxonomies/
+	https://github.com/bainternet/Tax-Meta-Class/blob/master/class-usage-demo.php
+	https://github.com/bainternet/Tax-Meta-Class
+	
+	- Add Metadata to Categories – WordPress
+	http://php.quicoto.com/add-metadata-categories-wordpress/
+	
+	- 10 Useful Free Metadata Plugins for WordPress
+	http://designorbital.com/wordpress/metadata-plugins-for-wordpress/
+
+http://justintadlock.com/archives/2011/10/20/custom-user-taxonomies-in-wordpress
+http://alexking.org/blog/2014/07/09/custom-taxonomy-as-post-meta
+http://www.billerickson.net/code/taxonomy-metadata-in-get_terms/
+https://pippinsplugins.com/sometimes-direct-wpdb-queries-better/
+https://johnblackbourn.com/post-meta-revisions-wordpress
+
+
++ Sorting custom column Categories
+https://www.google.com.vn/#q=wordpress+sort+by+metadata+categories&start=10
+	- Cần tìm
+	https://www.wphub.com/sorting-categories-custom-sort-order/
+	https://www.wphub.com/adding-metadata-taxonomy-terms/
+	https://wordpress.org/support/topic/metadata-list-categories-by-id
+	http://www.paulund.co.uk/add-custom-post-meta-data-to-list-post-table
+	http://wordpress.stackexchange.com/questions/100022/filtering-custom-post-types-via-meta-data-drop-down
+http://justintadlock.com/archives/2011/06/27/custom-columns-for-custom-post-types
+http://code.tutsplus.com/articles/mastering-wordpress-meta-data-querying-posts-and-users-by-meta-data--wp-34606
+http://codecanyon.net/item/wordpress-meta-data-taxonomies-filter/7002700
+http://wordpress-filter.com/step-by-step/
+
 == 03 - 08 - 2015
 + Từ khóa
 Custom columns for custom post types
