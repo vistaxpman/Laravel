@@ -1,3 +1,85 @@
+Senior .Net Web Developer (10 Positions) - Niteco (vietnam) Co., Ltd
+• Good at English
+• Have relevant formal education, at minimum, a bachelor's degree with a major in software development or its equivalent
+• At least four (4) years of professional experience with developing websites based on the Microsoft .NET platform, (C#, SQL Server, ASP.NET, WebForms and/or MVC). This also includes the use of relevant client side technologies, such as HTML, CSS, JavaScript, JQuery, etc.
+• Experience in software architecture and patterns
+• Experience in multi browser development support and building user interfaces that validates according to W3C, following the latest accessibility standards
+• Good command of the English language, both in writing, speaking, and comprehension
+Additional experience and knowledge within these areas below is preferable but not required:
+• Development of mobile applications for iOS; iPad, iPhone, Android, etc.
+• HTML5, CSS3, Windows Azure, Unit testing
+• Sharepoint, DotNetNuke, Umbraco
+
+To apply, please submit the following information
+• Job Application Letter with “Senior .Net Developer position” in the subject line.
+• Updated CV in English, including your contact e-mail, phone number and salary expectations.
+Please apply to: hr(at)niteco.se
+For more information, please visit our website at: http://www.niteco.se/en/careers/
+Read about Niteco on Facebook https://www.facebook.com/Niteco 
+===========================
+
+Senior PHP for Enterprise Systems ($800~$1500 Net) - Contemi Vietnam
+You should have at least 3 years of experience working (the more experience the better), good English and you make a point of keeping up-to-date with what’s new.
+
+You focus on fundamental knowledge of PHP:
+- Very keen on PHP.
+- Design Pattern.
+- SOLID principles.
+- Zend framework or any good MVC framework.
+- Joomla.
+- Web service protocol: XML-RPC, JSON-RPC, SOAP.
+- ORM.
+- HTML5/CSS3, HTML/XHTML.
+- Javascript: jQuery and jQueryUI, ExtJS, AngularJS/ BackboneJS. 
+===========================
+Senior PHP Developers (very Competitive Salary) - Saritasa
+- BS Degree or higher in computer science/computer engineering/information technology
+- Read and Write English well.
+
+- Apache 1.x, 2.x
+- PHP 5
+- MySQL 5
+- XHTML/CSS
+- Experienced with MySQL, including complex MySQL syntax. Can work with MySQL via command line (without Phpmyadmin)
+- SSH
+- SVN/Mercurial/Git
+
+PLUS:
+- Jquery
+- PHP5 OOP, Design Patterns
+- SQL optimization techniques
+- Having your own PHP framework will be a good plus
+- Experience working with
++ PHP frameworks
++ Ecommerce modules (paypal, authorize.net)
+- Your personal attitude to learn everyday
+- Experience working with web-farms & load balancing
+- Experience working on high-traffic applications/web-sites with huge business logic
+- Ability to solve non-trivial complex tasks
+- You demonstrate vision and planning in everything you do
+- You are self-motivated, clever, and able to think out of the box
+- You know the difference between: "I can't do it" and "I can't do it yet"
+- Your motivation increases when the challenges gets harder
+
+ABOUT YOU:
+- You're a whiz at writing a code (or you want to become one)
+- You're very familiar with PHP. Your own score is 10 of 10.
+- You LOVE design patterns and know how to use them. Singleton, Bridge, Proxy - you can write them without googling for samples
+- You like clean, commented and documented code.
+- SCRUM - you know what that is.
+- You believe "right" is mostly determined by users and objective metrics.
+- You're not a UX designer but you want to suggest how to make an application (or service) better.
+- You want to share your ideas and opinions as well as adopt other's thinking and ideas.
+- Given a limited amount of free time, you would self-educate about what is new out there in development world.
+- Given an unlimited amount of free time, you would write unit-tests covering 100% of your codebase
+- You're hungry to learn and getting things to work.
+- You're hungry to deliver results in a fast and efficient manner
+- You're hungry to work with people who "know" what they're doing and do it right
+- When you say it's done - it's done and there are no bugs
+- You respect people for what they do, not for what they say
+- You like to work with skilled and amazing development team 
+
+===========================
 + Senior .Net Developer - Rocketuncle
 • Solid knowledge in ASP.NET (7+ years of experience)
 • Solid Knowledge in MVC, WCF, WPF, Signal R, Knockout JS, REST API
