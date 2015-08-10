@@ -1,3 +1,72 @@
+== 10 - 08 - 2015
++ Từ khóa
+Ordering WordPress taxonomies
+get_terms
+Organizing Your WordPress Data: Understanding Custom Taxonomies vs Custom Fields
+categories - Order get_terms() By Custom Field
+Order get_terms() By Custom Field
+
++ Taxonomy	
+	- Tải plugin
+	https://github.com/rachelbaker/Custom-Post-Type-Taxonomy-Sort-Plugin
+	https://wordpress.org/plugins/custom-taxonomy-order-ne/
+	https://wordpress.org/plugins/beautiful-taxonomy-filters/
+	https://github.com/DevinVinson/WordPress-Plugin-Boilerplate
+	https://wordpress.org/plugins/tag-or-category-term-group-order/
+	https://wordpress.org/plugins/the-taxonomy-sort/
+	https://wordpress.org/plugins/priocat/
+	https://wordpress.org/plugins/taxonomy-terms-order/
+	http://wpdreamer.com/plugins/cpt-onomies/
+	
+	http://webvietfree.com/threads/sap-xep-thu-tu-category-taxnonomy-voi-plugin-the-taxonomy-sort.817/
+	
+	
+	- Tải template
+	http://www.kriesi.at/theme-overview
+	
+	http://ghosty.co.uk/2013/10/ordering-wordpress-taxonomies/
+	http://wpshout.com/organizing-wordpress-data-custom-taxonomies-custom-fields/
+	
+
+http://leadin.com/plugins/wordpress-sorting	
+http://codex.wordpress.org/Function_Reference/get_terms	
+http://goobbe.com/questions/278973/how-to-sort-post-by-custom-taxonomy-in-wordpress
+http://chrisltd.com/blog/2014/09/sorting-wordpress-taxonomy-terms/
+https://github.com/tollmanz/custom-taxonomy-sort/blob/master/custom-taxonomy-sort.php
+http://www.nsp-code.com/premium-plugins/wordpress-plugins/advanced-taxonomy-terms-order/
+http://stackoverflow.com/questions/13512137/how-to-sort-post-by-custom-taxonomy-in-wordpress
+http://code.tutsplus.com/tutorials/taxonomy-archives-list-posts-by-taxonomys-terms--cms-20045
+http://www.wpbeginner.com/beginners-guide/categories-vs-tags-seo-best-practices-which-one-is-better/	
+https://cgd.io/2014/how-to-change-custom-post-type-archive-order/
+http://themefortress.com/custom-taxonomies-organize-wordpress-content/
+http://wptavern.com/beautiful-taxonomy-filters-for-wordpress-custom-post-types
+http://eppand.com/how-to-order-custom-post-types-by-custom-taxonomy-in-wordpress/
+https://wp-types.com/forums/topic/sort-the-results-of-a-taxonomy-archive-page/
+https://pippinsplugins.com/post-list-filters-for-custom-taxonomies-in-manage-posts/
+http://www.smashingmagazine.com/2012/01/create-custom-taxonomies-wordpress/
+	
++ Compare data
+https://cgd.io/2013/sorting-wordpress-taxonomy-terms-naturally-alphanumerically/
+
++ Tạo pretty url trong wordpress
+http://thereforei.am/2011/10/28/advanced-taxonomy-queries-with-pretty-urls/
+https://tadpole.cc/blog/user-taxonomies-categorize-wordpress-users/
+http://www.shilling.id.au/2012/03/21/re-order-a-taxonomy-archive-page-using-a-custom-field/
+http://snipplr.com/view/42555/
+
++ Sort get_term()
+https://www.google.com/search?q=wordpress+get_terms+custom+taxonomy&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a#q=wordpress+get_terms+custom+column&start=10
+Đang search tới trang 2
+
+http://wordpress.stackexchange.com/questions/161216/order-get-terms-using-a-custom-field
+http://wordpress.stackexchange.com/questions/117147/order-get-terms-by-custom-field
+http://pods.io/forums/topic/order-taxonomies-by-a-custom-field-value/
+http://jamescollings.co.uk/blog/wordpress-get_terms-not-showing/
+https://www.wphub.com/sorting-categories-custom-sort-order/
+
++ sort column custom post type
+http://wpdreamer.com/2014/04/how-to-make-your-wordpress-admin-columns-sortable/
+
 == 07 - 08 - 2015
 + Tù khóa
 Adding Custom Meta Fields to Taxonomies
