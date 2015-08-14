@@ -1,3 +1,58 @@
+== 14 - 08 - 2015
+http://suckhoe.vnexpress.net/photo/tham-my/bi-kip-tap-chong-day-dung-cach-3263320.html
+
+- Debug trong php
+http://codebugapp.com/
+
+
+- Download
+	https://asgardcms.com/en/install
+	https://github.com/baoviet3010/larabasic
+	https://github.com/KodiCMS/kodicms-laravel
+	https://github.com/teodorsandu/kodicms-laravel/blob/dev/README_EN.md
+	http://docs.pyrocms.com/3.0/manual/introduction/pyrocms
+	http://pyrocms.com/
+	https://github.com/lavender/lavender
+	https://aimeos.org/project/laravel-shop-package/
+	https://buildwithcraft.com/
+	http://sylius.org/showcase
+	https://github.com/etrepat/baum
+	https://github.com/davejamesmiller/laravel-breadcrumbs
+	https://github.com/Crinsane/LaravelShoppingcart
+	https://github.com/vespakoen/menu
+	https://github.com/Indatus/dispatcher
+	https://github.com/cviebrock/eloquent-sluggable
+	https://github.com/itsgoingd/clockwork
+	https://github.com/Jiro-Commerce/Jiro
+	https://medium.com/laravel-4/laravel-4-e-commerce-c5afca925f28
+	
+	
+	
+https://mattstauffer.co/blog
+http://dunebook.com/create-an-e-commerce-website-with-laravel/
+http://code.tutsplus.com/tutorials/whats-new-in-laravel-5--cms-21842
+http://www.sitepoint.com/introducing-octobercms-laravel-based-cms/
+http://kungfuphp.com/category/laravel-framework-5
+https://scotch.io/tutorials/build-a-time-tracker-with-laravel-5-and-angularjs-part-1
+https://scotch.io/tutorials/build-a-time-tracker-with-laravel-5-and-angularjs-part-2
+http://learninglaravel.net/tags/laravel5
+http://laptrinh.io/browse/series/hoc-laravel-5-va-tao-mot-blog-don-gian
+http://fsd14.com/post/45-laravel-5-co-gi-moi
+https://mattstauffer.co/blog/bringing-whoops-back-to-laravel-5
+https://scotch.io/tutorials/login-with-the-built-in-laravel-5-scaffolding
+http://www.codeheaps.com/php-programming/laravel-5-new-auth-generators-user-authentication/
+https://medium.com/laravel-news/the-simple-guide-to-deploy-laravel-5-application-on-shared-hosting-1a8d0aee923e
+http://www.slideshare.net/kirkbushell/laravel-london-talk-february-2015
+http://laravel-viet.net/forum/
+http://blog.phambaoviet.com/larabasic-bai-2-xay-dung-database-bang-migrate-seeder-laravel-5/
+https://scotch.io/tutorials/login-with-the-built-in-laravel-5-scaffolding
+http://blog.phambaoviet.com/larabasic-bonus-cau-truc-file-va-thu-muc/
+http://blog.phambaoviet.com/larabasic-bai-2-xay-dung-database-bang-migrate-seeder-laravel-5/
+http://blog.phambaoviet.com/larabasic-bai-3-quan-ly-layout-bang-blade-master-laravel-5/
+http://blog.phambaoviet.com/larabasic-bonus-cau-truc-file-va-thu-muc/
+http://transmission.vehikl.com/adding-twitter-bootstrap-to-your-laravel-5-app/
+
+
 == 04 - 08 - 2015
 + CV
 http://eser.ozvataf.com/downloads/laru-cv-en.pdf
