@@ -1,1 +1,20 @@
-== 10 - 08 - 2015
+== 17 - 08 - 2015	
++ Từ khóa
+add custom fields to my custom post type 
+Adding Custom Fields to a Custom Post Type
+
+https://www.google.com.vn/?gws_rd=ssl#q=Adding+Custom+Fields+to+a+Custom+Post+Type+%2B+wordpress&start=40
+Trang 5
+
++ Download plugin
+	- Lâu rồi chưa dc cập nhật
+	https://wordpress.org/plugins/more-types/
+	https://wordpress.org/plugins/more-fields/
+
+	- mới
+	https://wordpress.org/plugins/pods/
+	https://wordpress.org/plugins/custom-post-type-ui/
+	https://wordpress.org/plugins/advanced-custom-fields/
+	http://www.advancedcustomfields.com/resources/
+	https://wordpress.org/plugins/types/
+	https://wordpress.org/plugins/simple-fields/
