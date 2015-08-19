@@ -1,3 +1,54 @@
+
+== 19 - 08 - 2015
++ Từ khóa
+How to Create a Custom Post Type with Image Uploads
+How to add multiple images to custom post type
+Custom Post Type to Upload Images
+
++ Download plugin
+	- Meta Boxes and Custom Fields Plugin For WordPress
+	https://metabox.io/
+	https://github.com/rilwis/meta-box
+	
+	- Powerful fields for WordPress developers.
+	http://www.advancedcustomfields.com/
+	
+	- Customize WordPress using post types, fields, and taxonomy
+	https://wp-types.com/home/types-manage-post-types-taxonomy-and-custom-fields/
+	
+	- Advanced Custom Fields
+	https://wordpress.org/plugins/advanced-custom-fields/
+	
+	- WCK - Custom Fields and Custom Post Types Creator
+	https://wordpress.org/plugins/wck-custom-fields-and-custom-post-types-creator/
+
+	https://wordpress.org/plugins/just-custom-fields/
+	
+
++ Custom post type with image
+http://www.flyinghippo.com/blog/adding-custom-fields-uploading-images-wordpress-users/
+https://piklist.com/support/topic/images-on-previews-of-custom-post-types-not-showing/
+http://gravitywiz.com/use-gravity-forms-to-create-user-submitted-posts/
+https://www.skyverge.com/blog/custom-post-type-with-image-uploads/
+http://code.tutsplus.com/articles/attaching-files-to-your-posts-using-wordpress-custom-meta-boxes-part-1--wp-22291
+http://snipplr.com/view/100091/wordpress-add-multiple-image-upload-custom-field-to-any-post-type/
+http://wpapi.com/file-upload-with-add_meta_box-or-custom_post_type-in-wordpress/
+http://blog.teamtreehouse.com/adding-custom-fields-to-a-custom-post-type-the-right-way
+http://wptheming.com/2010/08/custom-metabox-for-post-type/
+http://wordpress.stackexchange.com/questions/139841/add-metabox-with-media-uploader-in-a-custom-post-type
+https://gist.github.com/alexdunae/897503
+https://github.com/WebDevStudios/Custom-Metaboxes-and-Fields-for-WordPress/issues/735
+http://premium.wpmudev.org/blog/create-wordpress-custom-post-types/?utm_expid=3606929-49.jXdAmx05R2i4dJEDhtW_tA.0&utm_referrer=https%3A%2F%2Fwww.google.com.vn
+http://thestizmedia.com/front-end-posting-with-acf-pro/
+http://www.smashingmagazine.com/2010/04/extend-wordpress-with-custom-fields/
+https://bay-a.co.uk/wordpress-tips/gravity-forms-custom-post-from-form/
+http://www.wpbeginner.com/wp-tutorials/how-to-add-additional-fields-to-the-wordpress-media-uploader/
+https://pippinsplugins.com/products/easy-content-types/
+https://wedevs.com/products/plugins/wp-user-frontend-pro/
+http://jayj.dk/download-cpt-wordpress/
+http://www.billerickson.net/wordpress-metaboxes/
+https://www.google.com.vn/?gws_rd=ssl#q=custom+field+custom+post+type+%2B+upload+image&start=40
+
 == 17 - 08 - 2015	
 + Từ khóa
 add custom fields to my custom post type 
