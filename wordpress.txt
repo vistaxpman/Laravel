@@ -1,9 +1,11 @@
-
 == 19 - 08 - 2015
 + Từ khóa
 How to Create a Custom Post Type with Image Uploads
 How to add multiple images to custom post type
 Custom Post Type to Upload Images
+Creating a WordPress Photo Gallery Using Custom Post
+Multi Image Upload with additional custom fields
+https://www.google.com.vn/?gws_rd=ssl#q=custom+field+custom+post+type+%2B+upload+image&start=70
 
 + Download plugin
 	- Meta Boxes and Custom Fields Plugin For WordPress
@@ -23,7 +25,7 @@ Custom Post Type to Upload Images
 	https://wordpress.org/plugins/wck-custom-fields-and-custom-post-types-creator/
 
 	https://wordpress.org/plugins/just-custom-fields/
-	
+	http://simple-fields.com/	
 
 + Custom post type with image
 http://www.flyinghippo.com/blog/adding-custom-fields-uploading-images-wordpress-users/
@@ -47,7 +49,17 @@ https://pippinsplugins.com/products/easy-content-types/
 https://wedevs.com/products/plugins/wp-user-frontend-pro/
 http://jayj.dk/download-cpt-wordpress/
 http://www.billerickson.net/wordpress-metaboxes/
-https://www.google.com.vn/?gws_rd=ssl#q=custom+field+custom+post+type+%2B+upload+image&start=40
+https://www.google.com.vn/?gws_rd=ssl#q=custom+field+custom+post+type+%2B+upload+image&start=40	
+http://www.starkinfotech.com/metabox-with-upload-option/
+https://github.com/bradyvercher
+http://www.1stwebdesigner.com/wordpress-plugin-development-course-for-designers-custom-post-type/
+http://wpsites.net/web-design/add-unique-header-images-using-custom-fields/
+http://bluelimemedia.com/2012/03/01/build-a-custom-image-slider-using-a-custom-post-type/
+http://shibashake.com/wordpress-theme/add-custom-post-type-columns
+http://watch-learn.com/video-tutorials/wordpress-custom-post-types-custom-fields-part-5-repeater-fields-custom-post-type-children/
+http://wpshout.com/wordpress-custom-post-backgrounds/
+http://jasonskinner.me/2013/03/creating-a-wordpress-photo-gallery-using-custom-post-types/
+
 
 == 17 - 08 - 2015	
 + Từ khóa
