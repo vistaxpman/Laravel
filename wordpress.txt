@@ -1,3 +1,87 @@
+== 20 - 08 - 2015
++ Addon google translate
+https://addons.mozilla.org/en-US/firefox/addon/google-translator-for-firefox/?src=search
+
+
++ Từ khóa
+Creating a WordPress Photo Gallery Using Custom Post
+How to Create a Photo Album Gallery
+Make a photo gallery using WordPress’ custom post type
+Creating a Filterable WordPress Photo Gallery Using Isotope
+Creating Photo Gallery System with Custom Post Type
+Using Custom Post Types to Create a Killer Portfolio
+Portfolio Post Type
+
+	https://www.google.com.vn/?gws_rd=ssl#q=image+gallery+custom+post+type+wordpress&start=40
+	- cần tìm
+	http://jasonskinner.me/2013/03/creating-a-wordpress-photo-gallery-using-custom-post-types/	
+	http://jasonskinner.me/2013/04/creating-a-filterable-wordpress-photo-gallery/
+	http://demos.jasonskinner.me/photogallery/
+	http://jasonskinner.me/2013/03/adding-custom-image-size-wordpress-media-gallery/
+	https://metabox.io/
+	https://www.skyverge.com/blog/custom-post-type-with-image-uploads/
+	http://sicdigital.com/2010/07/create-custom-post-type-for-image-upload-wordpress3/
+	http://code.tutsplus.com/tutorials/using-custom-post-types-to-create-a-killer-portfolio--wp-20565
+	http://www.youtube.com/watch?v=voOQDohL4Pc
+	http://dbaines.com/blog/archive/wordpress-custom-post-type-art-gallery-tutorial/
+	http://dbaines.com/blog/archive/wordpress-custom-post-type-art-gallery-tutorial/2/
+	http://dbaines.com/blog/archive/wordpress-custom-post-type-art-gallery-tutorial/3/
+	http://dbaines.com/blog/archive/wordpress-custom-post-type-art-gallery-tutorial/4/
+	http://dbaines.com/blog/archive/wordpress-custom-post-type-art-gallery-tutorial/5/
+	http://dbaines.com/blog/archive/wordpress-custom-post-type-art-gallery-tutorial/6/
+	http://dbaines.com/blog/archive/wordpress-custom-post-type-art-gallery-tutorial/7/
+	https://github.com/dbaines/WP-TwentyEleven-ArtGalleryPostTypeMod
+	http://www.billerickson.net/wp-query-sort-by-meta/
+	http://www.billerickson.net/shortcut-args-for-display-posts-shortcode/
+	http://www.billerickson.net/customize-which-menu-item-is-marked-active/
+	http://www.billerickson.net/default-category-and-tag-titles/
+	http://shibashake.com/wordpress-theme/add-custom-post-type-columns
+	http://wp-snppts.com/image-gallery-without-plugin	
+	
+	http://www.billerickson.net/genesis-portfolio/
+	https://wordpress.org/plugins/portfolio-post-type/
+	
+	http://www.billerickson.net/displaying-popular-posts-using-be-stats/
+	http://www.billerickson.net/building-my-portfolio/
+	http://www.billerickson.net/wordpress-post-multiple-authors/
+	http://www.billerickson.net/custom-secondary-menu/
+	http://www.billerickson.net/wordpress-add-custom-fields-media-gallery/
+	http://kimjoyfox.com/how-to-create-a-gallery-menu-using-a-custom-post-type-and-featured-images-in-wordpress/
+	http://www.freshconsulting.com/wordpress-custom-post-types-advanced-custom-fields/
+	http://www.kevinleary.net/wordpress-dashicons-list-custom-post-type-icons/
+	http://www.smashingmagazine.com/2011/05/better-image-management-practices-with-wordpress/
+	http://bluelimemedia.com/2012/03/01/build-a-custom-image-slider-using-a-custom-post-type/
+	http://themify.me/themes/fullpane
+	http://designscrazed.org/best-wordpress-gallery-plugins/
+	http://www.noeltock.com/web-design/wordpress/tutorial-custom-post-types/
+	http://www.1stwebdesigner.com/wordpress-plugin-development-course-for-designers-custom-post-type/
+	
+	
+http://www.wpbeginner.com/wp-tutorials/how-to-create-a-photo-album-gallery-in-wordpress-without-a-plugin/
+http://www.wpbeginner.com/beginners-guide/how-to-create-an-image-gallery-in-wordpress/
+http://www.wpbeginner.com/plugins/how-to-create-a-photo-gallery-with-albums-in-wordpress/
+http://www.wpbeginner.com/wp-tutorials/how-to-add-additional-fields-to-the-wordpress-media-uploader/
+http://www.ghacks.net/2011/06/06/firefox-quick-translator-on-page-translations/
+http://helpforwp.com/plugins/
+http://wordpress.stackexchange.com/questions/159086/how-to-add-multiple-images-to-custom-post-type
+https://gist.github.com/alexdunae/897503
+http://www.billerickson.net/custom-secondary-menu/
+http://www.billerickson.net/a-better-and-easier-grid-loop/
+http://www.billerickson.net/core-functionality-plugin/
+http://www.billerickson.net/customize-the-wordpress-query/
+http://www.billerickson.net/image-override-plugin/
+http://wpexplorer-themes.com/total/
+
+
++ Download plugin
+https://helpforwp.com/downloads/custom-post-wp-gallery/
+https://metabox.io/
+https://wordpress.org/plugins/wp-get-post-image/ -> Lâu chưa cập nhật
+https://wordpress.org/plugins/display-posts-shortcode/
+https://github.com/sumobi/easy-image-gallery
+https://wordpress.org/plugins/portfolio-post-type/
+https://wordpress.org/plugins/be-stats/
+
 == 19 - 08 - 2015
 + Từ khóa
 How to Create a Custom Post Type with Image Uploads
