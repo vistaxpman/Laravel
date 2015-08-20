@@ -11,6 +11,7 @@ Creating a Filterable WordPress Photo Gallery Using Isotope
 Creating Photo Gallery System with Custom Post Type
 Using Custom Post Types to Create a Killer Portfolio
 Portfolio Post Type
+How to add multiple images to custom post type
 
 	https://www.google.com.vn/?gws_rd=ssl#q=image+gallery+custom+post+type+wordpress&start=40
 	- cần tìm
@@ -71,6 +72,7 @@ http://www.billerickson.net/core-functionality-plugin/
 http://www.billerickson.net/customize-the-wordpress-query/
 http://www.billerickson.net/image-override-plugin/
 http://wpexplorer-themes.com/total/
+http://wptheming.com/2011/08/portfolio-post-type-plugin/
 
 
 + Download plugin
@@ -80,7 +82,24 @@ https://wordpress.org/plugins/wp-get-post-image/ -> Lâu chưa cập nhật
 https://wordpress.org/plugins/display-posts-shortcode/
 https://github.com/sumobi/easy-image-gallery
 https://wordpress.org/plugins/portfolio-post-type/
-https://wordpress.org/plugins/be-stats/
+https://wordpress.org/plugins/be-stats/	
+https://wordpress.org/plugins/aeolus-creative-portfolio/
+https://wordpress.org/plugins/easy-media-gallery/
+https://wordpress.org/plugins/nimble-portfolio/
+https://wordpress.org/plugins/inpost-gallery/
+https://wordpress.org/plugins/gallery-plugin/
+https://wordpress.org/plugins/portfolio/
+https://wordpress.org/plugins/awesome-filterable-portfolio/
+https://wordpress.org/plugins/otw-portfolio-light/
+https://wordpress.org/plugins/wp-portfolio/
+https://wordpress.org/plugins/easy-portfolio/
+https://wordpress.org/plugins/waving-portfolio/
+https://wordpress.org/plugins/portfolio-mgmt/
+	
++ Download theme
+https://wordpress.org/themes/portfolio-press/
+http://www.premiumwp.com/best-portfolio-photo-gallery-wordpress-themes/
+
 
 == 19 - 08 - 2015
 + Từ khóa
