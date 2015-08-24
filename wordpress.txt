@@ -1,3 +1,62 @@
+== 24 - 08 - 2015
++ Từ khóa
+Support WPML MULTI LANGUAGE plugin
+
+
++ Download all free theme 
+http://themeisle.com/allthemes/
+http://www.codeinwp.com/examples/
+http://my.studiopress.com/themes/genesis/
+http://www.studiopress.com/
+http://diythemes.com/plans/
+http://underscores.me/
+https://github.com/automattic/_s
+
+
++ Site of main URL
+<?php echo esc_url(home_url('/')); ?>
+
++ Site Url
+<?php bloginfo('name'); ?>
+
++ Description
+<?php bloginfo('description'); ?>
+
++ Lấy thumbnail image
+get_the_post_thumbnail($post->ID, array('40', '40'));
+
+
+
+http://kingtheme.net/themeforest-shopkeeper-v1-3-9-responsive-wordpress-theme/
+http://themeforest.net/item/shopkeeper-responsive-wordpress-theme/9553045
+
+http://kingtheme.net/themeforest-seo-wp-v1-8-social-media-and-digital-marketing-agency-2/
+http://themeforest.net/item/seo-wp-social-media-and-digital-marketing-agency/8012838
+
+http://kingtheme.net/themeforest-avada-v3-8-6-1-responsive-multi-purpose-theme/
+
+http://kingtheme.net/themeforest-bayside-v1-5-responsive-wordpress-theme/
+http://themeforest.net/item/bayside-responsive-wordpress-theme/4071850
+
+http://kingtheme.net/themeforest-jobify-v2-0-5-themeforest-wordpress-job-board-theme/
+http://themeforest.net/item/wordpress-job-board-theme-jobify/5247604
+
+http://kingtheme.net/themeforest-the7-v2-3-1-responsive-multi-purpose-wordpress-theme/
+http://themeforest.net/item/the7-responsive-multipurpose-wordpress-theme/5556590
+
+http://kingtheme.net/themeforest-enfold-v3-3-responsive-multi-purpose-theme/
+
+
++ Download plugin
+https://wordpress.org/plugins/wp-job-manager/
+https://wpjobmanager.com/add-ons/resume-manager/
+https://wpjobmanager.com/add-ons/wc-paid-listings/
+https://wordpress.org/plugins/testimonials-by-woothemes/
+http://kingtheme.net/codecanyon-wp-pro-advertising-system-v4-6-4-all-in-one-ad-manager/
+http://kingtheme.net/ithemes-backupbuddy-v6-3-0-0-back-up-restore-and-move-wordpress/
+http://kingtheme.net/yoast-wordpress-seo-premium-plugin-v2-3-4/
+http://kingtheme.net/genesis-v2-1-3-wordpress-framework/
+
 == 20 - 08 - 2015
 + Addon google translate
 https://addons.mozilla.org/en-US/firefox/addon/google-translator-for-firefox/?src=search
