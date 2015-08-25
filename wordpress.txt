@@ -1,3 +1,26 @@
+== 25 - 08 - 2015
+
++ Đổi giấy phép lái xe
+http://www.webtretho.com/forum/f73/thu-tuc-lo-trinh-doi-giay-phep-lai-xe-qua-the-pet-bat-buoc-voi-moi-nguoi-2066384/
+http://daotaobanglaixe.com/thu-tuc-doi-bang-lai-xe-cu-sang-moi-va-noi-cap-lai-lam-bang-lai-xe-the-nhua-pet-moi-nhat-bid143.html
+http://daotaobanglaixe.com/thoi-han-doi-gplx-cu-sang-gplx-moi-bang-the-vat-lieu-pet-bid158.html
+http://dayhoclaixeoto.edu.vn/thu-tuc-doi-giay-phep-lai-xe-bang-lai-xe-cu-sang-moi-the-pet--bid100.html
+
+
++ Từ khóa	
+
+
++ Download plugin
+http://wordpress.org/extend/plugins/wp-super-cache
+https://wordpress.org/plugins/httpbl/
+https://wordpress.org/plugins/wp-minify-fix/
+https://wordpress.org/plugins/buysellads/
+https://wordpress.org/plugins/wordpress-seo/
+
+
++ URL Homepage
+<?php bloginfo('url'); ?>
+
 == 24 - 08 - 2015
 + Từ khóa
 Support WPML MULTI LANGUAGE plugin
