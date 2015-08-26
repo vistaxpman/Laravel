@@ -1,3 +1,45 @@
+== 26 - 08 - 2015
+https://www.google.com.vn/search?q=wordpress+metabox+upload+image&biw=1920&bih=943&tbm=isch&tbo=u&source=univ&sa=X&sqi=2&ved=0CCEQsARqFQoTCND5pv-9xscCFQ4kjgodYrUCMg
+https://www.google.com.vn/search?q=wordpress+metabox+upload+image&biw=1920&bih=943&tbm=isch&tbo=u&source=univ&sa=X&sqi=2&ved=0CCEQsARqFQoTCND5pv-9xscCFQ4kjgodYrUCMg
+	- cần tìm
+	http://wpapi.com/file-upload-with-add_meta_box-or-custom_post_type-in-wordpress/
+	http://wordpress.stackexchange.com/questions/48537/getting-id-from-ajax-response-of-async-upload-php
+	http://www.cozmoslabs.com/25322-show-custom-fields-wordpress/
+	http://premium.wpmudev.org/blog/daily-tip-add-drag-and-drop-image-upload-to-wordpress/?ht2=1&utm_expid=3606929-52.ZpfeUjXqSWOCaoohIqoFQQ.1&utm_referrer=http%3A%2F%2Fwww.google.com.vn%2Fimgres%3Fimgurl%3Dhttp%3A%2F%2Fpremium.wpmudev.org%2Fblog%2Fwp-content%2Fuploads%2F2011%2F09%2Fafter.png%26imgrefurl%3Dhttp%3A%2F%2Fpremium.wpmudev.org%2Fblog%2Fdaily-tip-add-drag-and-drop-image-upload-to-wordpress%2F%26h%3D653%26w%3D960%26tbnid%3D2DNMxys4RU_7gM%3A%26docid%3DRXfwRuRmSjcaYM%26ei%3De43dVZucGI2LuwTU3q3IAw%26tbm%3Disch%26ved%3D0CGMQMyg9MD1qFQoTCNvF4IC-xscCFY3FjgodVG8LOQ
+	http://shibashake.com/wordpress-theme/standard-wordpress-metabox
+	http://code.tutsplus.com/articles/reusable-custom-meta-boxes-part-1-intro-and-basic-fields--wp-23259
+	http://premium.wpmudev.org/blog/wordpress-power-tools-plugins-to-build-a-killer-portfolio/?ht2=1&utm_expid=3606929-52.ZpfeUjXqSWOCaoohIqoFQQ.1&utm_referrer=http%3A%2F%2Fwww.google.com.vn%2Fimgres%3Fimgurl%3Dhttp%3A%2F%2Fpremium.wpmudev.org%2Fblog%2Fwp-content%2Fuploads%2F2013%2F02%2Fcustom-meta-box-340x175.png%26imgrefurl%3Dhttp%3A%2F%2Fpremium.wpmudev.org%2Fblog%2Fwordpress-power-tools-plugins-to-build-a-killer-portfolio%2F%26h%3D175%26w%3D340%26tbnid%3DiWOplzA5fvJvPM%3A%26docid%3D1VEtl7EItVz9kM%26ei%3De43dVZucGI2LuwTU3q3IAw%26tbm%3Disch%26ved%3D0CHEQMyhLMEtqFQoTCNvF4IC-xscCFY3FjgodVG8LOQ
+	http://code.tutsplus.com/tutorials/using-wordpress-meta-boxes-to-build-a-basic-seo-plugin--cms-20517
+	http://code.tutsplus.com/articles/attaching-files-to-your-posts-using-wordpress-custom-meta-boxes-part-1--wp-22291
+	https://metabox.io/docs/meta-box-builder/
+	http://shibashake.com/wordpress-theme/add-a-metabox-to-the-edit-comments-screen
+
+	
+http://austin.passy.co/2010/creating-custom-metaboxes-and-the-built-in-uploader/
+http://www.webmaster-source.com/2010/01/08/using-the-wordpress-uploader-in-your-plugin-or-theme/#comment-11048
+http://www.cozmoslabs.com/18545-wordpress-testimonial-page-template-with-wck/
+https://tommcfarlin.com/wordpress-upload-meta-box/
+https://frosty.media/plugins/
+https://delicious.com/thecorkboard/custom_metabox
+http://www.deluxeblogtips.com/2010/04/how-to-create-meta-box-wordpress-post.html
+http://code.tutsplus.com/articles/attaching-files-to-your-posts-using-wordpress-custom-meta-boxes-part-1--wp-22291
+http://wproots.com/upload-media-in-meta-boxes/
+http://themefoundation.com/wordpress-meta-boxes-guide/
+http://wordpress.stackexchange.com/questions/67065/properly-add-an-upload-media-button-in-a-meta-box-field
+https://piklist.com/user-guide/tutorials/creating-meta-boxes-fields/
+http://stackoverflow.com/questions/23343322/dropdown-of-existing-posts-in-a-metabox
+https://www.authenticthemes.com/knowledgebase/adding-portfolio-items/
+http://webtrainingwheels.com/complete-guide-wordpress-seo-plugin-yoast/
+http://www.deluxeblogtips.com/2010/04/how-to-create-meta-box-wordpress-post.html
+http://www.wpbeginner.com/beginners-guide/how-to-fix-common-image-issues-in-wordpress/
+https://www.skyverge.com/blog/custom-post-type-with-image-uploads/
+http://johannes.jarolim.com/blog/2012/01/01/wordpress-inline-mediaupload/
+http://www.hongkiat.com/blog/wordpress-custom-meta-box/
+https://metabox.io/meta-box/
+http://www.billerickson.net/wordpress-metaboxes/
+http://www.stumbleupon.com/lists/1102336416964428944/wordpress-meta-box
+https://five3.me/how-to/
+
 == 25 - 08 - 2015
 
 + Đổi giấy phép lái xe
