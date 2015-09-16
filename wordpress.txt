@@ -1,3 +1,132 @@
+
+http://bookdl.com/978-0137081899/
+http://bookdl.com/978-0137081608/
+http://bookdl.com/978-1449319243/
+http://bookdl.com/9781449337049/
+http://bookdl.com/9781935182993/
+http://bookdl.com/978-1430246923/
+http://bookdl.com/b00tu6spbq/
+http://bookdl.com/9781449334376/
+http://bookdl.com/978-1783980109/
+http://bookdl.com/9781783285457/
+
+
+PP.Java.EE.7.Development.with.WildFly.2014
+
+Apress.JavaServer.Faces.Introduction.by.Example.2014
+
+
+https://onlybooks.org/introduction-to-javascript-object-notation-a-to-the-point-guide-to-json-82428
+https://onlybooks.org/beginning-json-32128
+http://bookdl.com/978-1782178125/
+http://bookdl.com/9781783288298/
+https://it-ebooks.info/tag/json/
+
+
+== 11 - 09 - 2015
+https://vozforums.com/showthread.php?t=4352600	
+https://vozforums.com/showthread.php?t=4354445
+
++ Cài đặt Vagrant
+	- download
+		https://www.virtualbox.org/
+		https://www.vagrantup.com/
+		https://github.com/cmderdev/cmder
+		https://github.com/mitchellh/vagrant
+	
+	- Tìm các gói cài đặt cho Vagrant
+	https://atlas.hashicorp.com/boxes/search
+	
+	
+http://thachpham.com/hosting-domain/may-chu/tao-may-ao-tren-may-tinh-voi-vagrant-va-virtualbox.html
+https://viblo.asia/dinhhoanglong91/posts/1l0rvmDQGyqA
+http://blog.luuhoangnam.com/virtual-machine/homestead-youre-my-friend.html
+http://blog.luuhoangnam.com/architecture/hexagonal-architecture.html
+http://kipalog.com/search?q=php
+
+
+
+	
+== 10 - 09 - 2015
++ Từ khóa
+Callback function
+call_user_func_array
+array_slice
+filter and action in wordpress
+
+
+https://www.google.com/search?q=ph%C3%A2n+bi%E1%BB%87t+filter+v%C3%A0+hook+trong+wordpress&ie=utf-8&oe=utf-8#q=ph%C3%A2n+bi%E1%BB%87t+filter+v%C3%A0+hook+trong+wordpress&start=10
+
+
+
++ Filter and Action trong Wordpress
+https://wordpress.org/support/topic/fliters-vs-actions-from-a-newbe
+
+http://thachpham.com/wordpress/wordpress-development/cach-dung-filter-hook-trong-wordpress.html
+https://codex.wordpress.org/Plugin_API/Filter_Reference
+
+http://thachpham.com/wordpress/wordpress-development/cach-su-dung-action-hook-trong-wordpress.html
+http://codex.wordpress.org/Plugin_API/Action_Reference
+	
+http://thachpham.com/tools/tai-nguyen-tra-code-wordpress.html
+http://php.net/manual/en/function.call-user-func-array.php
+http://wordpresskite.com/plugin-development/hieu-ve-hook-trong-wordpress/
+http://wordpresskite.com/plugin-development/casestudy-1-truyen-tham-so-luc-add-hook/
+http://wordpresskite.com/wordpress/tuy-chinh-style-cua-editor-khi-dang-bai/
+http://wordpresskite.com/theme-development/tao-admin-page-cho-genesis-childtheme/
+http://wordpresskite.com/plugin-development/viet-plugin-cache-javascript-bang-basketjs/
+http://www.jamviet.com/wordpress-viet
+http://vietblogwp.com/wordpress/thu-thuat-wordpress/su-dung-hooks-va-filters-cho-nguoi-moi.html
+https://romantic9x.wordpress.com/category/wordpress/
+https://www.izwebz.com/wordpress/wodpress-plugin-develop/wordpress-plugin-action-filter/
+http://daotaowordpress.net/mot-so-action-hooks-va-filters-cuc-hay-cho-wordpress/
+http://laptrinh.senviet.org/wordpress/huong-dan-su-dung-wordpress-hook/
+http://code.tutsplus.com/articles/the-beginners-guide-to-wordpress-actions-and-filters--wp-27373
+http://doc.presscustomizr.com/customizr/wordpress-actions-filters-and-hooks-a-guide-for-non-developers/
+http://blog.teamtreehouse.com/hooks-wordpress-actions-filters-examples
+http://ottopress.com/2011/actions-and-filters-are-not-the-same-thing/
+https://themify.me/docs/hooks
+http://www.zell-weekeat.com/wordpress-actions-and-filters/
+
+
+	
+	
+	
+== 09 - 09 - 2015
++ Thêm đoạn này vào trong file php khi tạo cho plugin
+// Exit if accessed directly
+if ( ! defined( 'ABSPATH' ) ) {
+    exit;
+}
+
+	
+== 08 - 09 - 2015
++ Premium theme
+http://www.elegantthemes.com/
+http://cyberchimps.com/
+http://themify.me/
+http://www.studiopress.com/
+
++ Wordpress ios and android apps
+https://apps.wordpress.org/
+
+
+
+
++ Plugins
+https://wordpress.org/plugins/googleanalytics/
+https://wordpress.org/plugins/google-analytics-dashboard-for-wp/
+https://wordpress.org/plugins/wc-gallery/
+https://wordpress.org/plugins/grand-media/
+https://wordpress.org/plugins/nextgen-gallery/
+https://wordpress.org/plugins/better-wp-security/
+https://wordpress.org/plugins/all-in-one-wp-security-and-firewall/
+https://www.tipsandtricks-hq.com/products
+https://www.tipsandtricks-hq.com/wordpress-simple-paypal-shopping-cart-plugin-768
+https://www.tipsandtricks-hq.com/development-center
+https://www.tipsandtricks-hq.com/products
+	
+
 == 26 - 08 - 2015
 https://www.google.com.vn/search?q=wordpress+metabox+upload+image&biw=1920&bih=943&tbm=isch&tbo=u&source=univ&sa=X&sqi=2&ved=0CCEQsARqFQoTCND5pv-9xscCFQ4kjgodYrUCMg
 https://www.google.com.vn/search?q=wordpress+metabox+upload+image&biw=1920&bih=943&tbm=isch&tbo=u&source=univ&sa=X&sqi=2&ved=0CCEQsARqFQoTCND5pv-9xscCFQ4kjgodYrUCMg
