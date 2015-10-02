@@ -1,4 +1,6 @@
 
+
+
 - Best
 	https://wordpress.org/plugins/simple-contact-form/
 	https://wordpress.org/plugins/nm-contact-forms/
@@ -44,6 +46,113 @@ https://onlybooks.org/beginning-json-32128
 http://bookdl.com/978-1782178125/
 http://bookdl.com/9781783288298/
 https://it-ebooks.info/tag/json/
+== 02 - 10 - 2015
++ Từ khóa
+Reusing controls with the Settings API
+WordPress Settings API Tutorial
+How To Handle WordPress Settings
+
+http://wp-a2z.com/oik_api/settings_fields/
+https://kovshenin.com/2012/the-wordpress-settings-api/
+http://ottopress.com/2009/wordpress-settings-api-tutorial/
+http://www.yaconiello.com/blog/how-to-handle-wordpress-settings/
+https://kovshenin.com/2014/debug-bar-slow-actions/
+http://wordpress.org/plugins/debug-bar-slow-actions/
+https://github.com/kovshenin/debug-bar-slow-actions
+http://ottopress.com/2009/wordpress-settings-api-tutorial/
+http://www.yaconiello.com/blog/how-to-handle-wordpress-settings/
+
+The Complete Guide To The WordPress Settings API ( 8 bài viết hướng dẫn sử dụng )
+http://code.tutsplus.com/series/the-complete-guide-to-the-wordpress-settings-api--cms-624
+
+- Tự động tạo ra các Settings Field cho Wordpress ( gen ra code để sử dụng )
+http://wpsettingsapi.jeroensormani.com/
+
+https://github.com/tareq1988/wordpress-settings-api-class
+http://tareq.wedevs.com/
+
+https://github.com/tareq1988/wp-eloquent
+
+WordPress Settings API
+http://teamtreehouse.com/library/wordpress-settings-api
+
+http://www.sitepoint.com/create-a-wordpress-theme-settings-page-with-the-settings-api/
+http://wpshout.com/making-an-admin-options-page-with-the-wordpress-settings-api/
+http://tareq.wedevs.com/2015/05/eloquent-orm-in-wordpress/
+
+http://alisothegeek.com/2011/01/wordpress-settings-api-tutorial-1/
+http://alisothegeek.com/2011/01/wordpress-settings-api-tutorial-2/
+https://codesymphony.co/using-the-wordpress-settings-api/
+
+http://wordpress.stackexchange.com/questions/100023/settings-api-with-arrays-example
+https://tommcfarlin.com/wordpress-settings-api-example/
+https://github.com/tommcfarlin/WordPress-Settings-Sandbox
+https://tommcfarlin.com/wordpress-settings-api-wrapper/
+http://tareq.wedevs.com/2012/06/wordpress-settings-api-php-class/
+http://www.chipbennett.net/2011/02/17/incorporating-the-settings-api-in-wordpress-themes/comment-page-2/
+http://qnimate.com/wordpress-settings-api-a-comprehensive-developers-guide/
+http://thuthuatwordpress.org/setting-api-trong-wordpress/
+http://www.slideshare.net/tovishalck82/wordpress-settings-api
+http://wordpress.tv/2015/08/12/vishal-kothari-wordpress-settings-api-settings-sections-and-fields/
+http://ieg.wnet.org/blog/build-a-better-wordpress-theme-with-the-settings-api/
+http://zanematthew.com/a-wordpress-settings-api-wrapper/
+http://www.mendoweb.be/blog/wordpress-settings-api-multiple-forms-on-same-page/
+https://www.google.com.vn/?gws_rd=ssl#q=settings+api+in+wordpress&start=20
+
+	
+== 25 - 09 - 2015
++ Contact Form
+https://wordpress.org/plugins/fws-ajax-contact-form/
+https://wordpress.org/plugins/clean-and-simple-contact-form-by-meg-nicholas/
+https://wordpress.org/plugins/contact-form-lite/
+https://wordpress.org/plugins/kento-ajax-contact-form/
+https://wordpress.org/plugins/contact-form-7/
+https://wordpress.org/plugins/ninja-forms/
+https://wordpress.org/plugins/si-contact-form/
+https://wordpress.org/plugins/visual-form-builder/
+http://codecanyon.net/item/formcraft-premium-wordpress-form-builder/5335056
+https://wordpress.org/plugins/contact-form-7-to-database-extension/
+https://wordpress.org/plugins/contact-form-to-db/
+http://codecanyon.net/item/storage-for-contact-form-7-/7806229
+https://wordpress.org/plugins/contact-form-advanced-database/
+https://wordpress.org/plugins/really-simple-captcha/
+https://wordpress.org/plugins/flamingo/
+https://wordpress.org/plugins/bogo/
+https://wordpress.org/plugins/formidable/
+https://wordpress.org/plugins/jetpack/
+http://codecanyon.net/item/quform-wordpress-form-builder/706149
+https://wordpress.org/plugins/guiform/
+
+
+
++ Plugin for wordpress
+https://ninjaforms.com/extensions/
+http://www.gravityforms.com/
+http://www.wpkube.com/
+http://kingtheme.net/?post=contact
+http://codecanyon.net/search?utf8=%E2%9C%93&term=contact
+
+
+
++ Bài viết hướng dẫn tạo contact form
+http://duylong.info/contact-form-7-tao-form-lien-tren-wordpress.html
+http://duylong.info/contact-form-7-tao-form-lien-tren-wordpress-phan-2.html
+http://starkod.net/build-wordpress-contact-forms-plugin-save-to-db-and-send-email/
+http://seclists.org/fulldisclosure/2015/Mar/21
+https://www.exploit-db.com/exploits/38086/
+http://premium.wpmudev.org/blog/10-top-quality-plugins-for-creating-custom-wordpress-forms/
+http://www.sitepoint.com/build-your-own-wordpress-contact-form-plugin-in-5-minutes/
+https://whatswp.com/best-wordpress-database-plugins/
+https://theme4press.com/10-super-useful-wordpress-plugins-extend-contact-form-7/
+http://www.wpkube.com/7-best-contact-form-plugins-for-wordpress/
+http://www.wpoptimus.com/449/5-contact-form-wordpress-plugins-paypal-integration/
+http://codecanyon.net/item/wp-contacts-contact-management-plugin/11871172
+http://www.finalwebsites.com/ajax-contact-form-wordpress/
+http://www.sitepoint.com/building-a-wordpress-plugin-to-create-an-ajax-contact-form/
+http://carlofontanos.com/build-your-own-ajax-contact-form-in-wordpress/
+https://pippinsplugins.com/create-an-ajaxified-contact-form-short-code-tutorial/
+
+
 
 
 == 11 - 09 - 2015
