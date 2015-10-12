@@ -46,6 +46,28 @@ https://onlybooks.org/beginning-json-32128
 http://bookdl.com/978-1782178125/
 http://bookdl.com/9781783288298/
 https://it-ebooks.info/tag/json/
+
+== 12 - 10 - 2015
+https://www.google.com/?gws_rd=ssl#q=add_action+vs+do_action
+- Tìm hiểu sự khác nhau giữa add_action, add_filter, do_action, apply_filters
+
++ Từ khóa
+Do I need to call do_action in my plugin?
+Best practice way to implement custom sections into a WordPress theme	
+Custom hook function
+add_filter vs apply_filters vs add_action vs do_action
+
+
+	- cần tìm
+	https://wordpress.org/support/topic/add_action-and-do_action-code-confusion
+	http://codex.wordpress.org/Plugin_API#Actions
+	https://developer.wordpress.org/reference/functions/do_action/
+	http://wpsmith.net/2011/the-difference-between-do_action-add_action-and-add_filter/
+	
+http://wordpress.stackexchange.com/questions/99952/best-practice-way-to-implement-custom-sections-into-a-wordpress-theme/99958#99958	
+	
+
+
 == 02 - 10 - 2015
 + Từ khóa
 Reusing controls with the Settings API
