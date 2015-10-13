@@ -48,6 +48,19 @@ http://bookdl.com/9781783288298/
 https://it-ebooks.info/tag/json/
 
 == 12 - 10 - 2015
+
++ Change icon in winform application
+http://stackoverflow.com/questions/5656809/any-easy-way-to-use-icons-from-resources
+https://social.msdn.microsoft.com/Forums/windows/en-US/00775d8f-a649-4c24-b8e6-808ae4fee230/setting-form-icon-from-embedded-resource-in-layout?forum=winforms
+http://www.tech-recipes.com/rx/1913/load_an_icon_from_an_embedded_resource_in_net/
+http://stackoverflow.com/questions/4284497/changing-the-default-icon-in-a-windows-forms-application
+
+
+
+
+'do_action' creates an action hook, 'add_action' executes hooked functions when that hook is called.
+
+
 https://www.google.com/?gws_rd=ssl#q=add_action+vs+do_action
 - Tìm hiểu sự khác nhau giữa add_action, add_filter, do_action, apply_filters
 
@@ -56,15 +69,51 @@ Do I need to call do_action in my plugin?
 Best practice way to implement custom sections into a WordPress theme	
 Custom hook function
 add_filter vs apply_filters vs add_action vs do_action
-
+Introduction to Custom Hooks and Pluggable Functions
+Creating Your Own Action Hooks
 
 	- cần tìm
 	https://wordpress.org/support/topic/add_action-and-do_action-code-confusion
 	http://codex.wordpress.org/Plugin_API#Actions
 	https://developer.wordpress.org/reference/functions/do_action/
 	http://wpsmith.net/2011/the-difference-between-do_action-add_action-and-add_filter/
+	http://stackoverflow.com/questions/26781857/how-do-do-action-and-add-action-work
+	http://www.zell-weekeat.com/wordpress-actions-and-filters/
+	http://ottopress.com/2011/actions-and-filters-are-not-the-same-thing/
+	http://wpcandy.com/teaches/custom-hooks-and-pluggable-functions/#.Vhys-H2_B-I
+	http://www.kvcodes.com/2014/03/pass-parameters-wordpress-action-hooks-add_action-do_action/
+	
+	http://www.smashingmagazine.com/2012/02/inside-wordpress-actions-filters/
+	http://sethmatics.com/2014/01/do_action-get_template_part-awesome-theme-framework-concept/
+	https://nacin.com/2010/05/18/rethinking-template-tags-in-plugins/
+	https://www.tipsandtricks-hq.com/wordpress-action-hooks-and-filter-hooks-an-introduction-4163
+	
+	
 	
 http://wordpress.stackexchange.com/questions/99952/best-practice-way-to-implement-custom-sections-into-a-wordpress-theme/99958#99958	
+	
+	
+http://www.zell-weekeat.com/gulp-tutorial/
+http://www.zell-weekeat.com/gulp-tutorial-2/
+
+http://phantomjs.org/screen-capture.html
+
+
++ Paging cho wordpress
+http://www.kvcodes.com/2015/08/how-to-add-numeric-pagination-in-your-wordpress-theme-without-plugin/
+http://thachpham.com/wordpress/wordpress-development/huong-dan-file-function.html
+
+http://www.kvcodes.com/2015/08/wordpress-custom-login-form-without-plugin-and-wp_login_form/	
+http://www.smashingmagazine.com/2015/09/extending-advanced-custom-fields-with-your-own-controls/
+http://stv.whtly.com/2011/09/12/using-front-end-ajax-requests-in-your-wordpress-plugins/
+
++ Download plugin
+https://wordpress.org/plugins/query-monitor/
+
+
++ Blog hay cho wordrpess
+http://www.nathanrice.net/plugins/
+http://www.smashingmagazine.com/category/wordpress/	
 	
 
 
