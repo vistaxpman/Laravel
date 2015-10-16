@@ -46,7 +46,61 @@ https://onlybooks.org/beginning-json-32128
 http://bookdl.com/978-1782178125/
 http://bookdl.com/9781783288298/
 https://it-ebooks.info/tag/json/
+== 16 - 10 - 2015
++ Download icon
+https://www.google.com.vn/?gws_rd=ssl#q=download+free+icon&start=30
+https://icons8.com/web-app/new-icons/all
+https://icons8.com/downloader/?pack=appWin
+http://findicons.com/search/download
+http://all-free-download.com/free-icon/
+https://www.iconfinder.com/search/?q=download
+http://www.iconarchive.com/
+http://www.iconarchive.com/tag/download
+http://www.flaticon.com/most-downloaded/
+http://www.flaticon.com/categories/tools-and-utensils
+http://www.freepik.com/free-vector/more-than--utility-icon-vector-material_571202.htm
+http://www.freepik.com/free-vector/flat-icon-set-vector_712408.htm
+https://github.com/google/material-design-icons
+http://www.sketchappsources.com/free-source/1422-tiny-flat-ui-kit-sketch-freebie-resource.html
+http://www.sketchappsources.com/free-source/1372-building-icons-sketch-freebie-resource.html
+http://www.sketchappsources.com/free-source/1379-519-font-awesome-icons.html
+http://www.sketchappsources.com/free-source/1029-finchjke-mini-icon-set.jpg.html
+http://www.freepik.com/free-vector/social-media-labels_798055.htm
+http://www.freepik.com/free-vector/colorful-glossy-buttons_746557.htm
+http://www.freepik.com/free-vector/metallic-buttons-collection_802735.htm
+http://www.freepik.com/free-vector/modern-music-player-buttons_804191.htm
+http://www.freepik.com/free-vector/circle-seamless-pattern_711507.htm
+http://www.freepik.com/free-vector/minimal-buttons-pack_746533.htm
+http://www.freepik.com/free-vector/glass-buttons-vector-set_724804.htm
+http://www.freepik.com/free-vector/multimedia-player-vector-design_731013.htm
+http://www.freepik.com/free-vector/hands-and-heart-buttons_796129.htm
+http://www.freepik.com/index.php?goto=8&page=4&cat=buttons&type=vectores
+http://icontoucan.com/
+http://iconza.com/
+http://www.smashingmagazine.com/2008/05/40-professional-icon-sets-for-free-download/
+http://www.dreamstale.com/free-download-72-vector-social-media-icons/
+https://dribbble.com/shots/1563947-Free-Icon-Set
+http://www.fatcow.com/free-icons
+https://designschool.canva.com/blog/free-icons-download/
 
+
+SkiPHP 2014 - Your API Sucks
+https://speakerdeck.com/benedmunds/skiphp-2014-your-api-sucks
+
+PHPNE 2014 - Modern and Secure PHP
+https://speakerdeck.com/benedmunds/phpne-2014-modern-and-secure-php
+
+Compatibility with the password_* functions that ship with PHP 5.5 
+https://github.com/ircmaxell/password_compat/
+
++ Check version c#
+http://stackoverflow.com/questions/19532942/which-version-of-c-sharp-am-i-using
+
+Start -> All Programs -> Microsoft Visual Studio xxxx -> Visual Studio Tools -> Visual Studio xxxx Command Prompt
+
+Then at the command prompt
+
+csc /?
 == 12 - 10 - 2015
 
 + Change icon in winform application
