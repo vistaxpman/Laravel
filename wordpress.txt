@@ -1,3 +1,91 @@
+== 17 - 11 - 2015
++ Từ khóa	
+Call ajax on the frontend
+How To Use Ajax In WordPress
+A Tutorial On Using AJAX In WordPress
+Adding Posts to a Sites Front-End Using AJAX
+Post Data with Ajax in WordPress Plugins 
+WordPress WP-API
+
+
+
+
+	- Cần tìm
+	http://www.inkthemes.com/how-to-use-ajax-in-wordpress-for-data-insertion/
+	http://www.makeuseof.com/tag/tutorial-ajax-wordpress/
+	http://code.tutsplus.com/tutorials/adding-posts-to-a-sites-front-end-using-ajax--wp-25652
+	http://www.smashingmagazine.com/2011/10/how-to-use-ajax-in-wordpress/
+	http://carlofontanos.com/change-password-using-ajax-and-jquery-in-wordpress-front-end/
+	http://bavotasan.com/2010/using-ajax-with-wordpress/
+	https://patrickshampine.com/2014/updating-user-meta-admin-ajax-frontend/
+	http://www.sitepoint.com/adding-ajax-to-your-wordpress-plugin/
+	http://theaveragedev.com/wordpress-files-ajax/
+	http://stv.whtly.com/2011/09/12/using-front-end-ajax-requests-in-your-wordpress-plugins/
+	
+
+	
+http://wordpress.stackexchange.com/questions/129361/call-ajax-on-the-frontend
+https://apppresser.com/wp-api-post-submission/
+http://v2.wp-api.org/extending/adding/
+https://apppresser.com/wp-content/uploads/2015/08/post-submitter-example.zip
+https://apppresser.com/using-wordpress-rest-api-mobile-app/
+http://wptavern.com/ryan-mccue-on-creating-the-json-rest-api-for-wordpress
+https://byronyasgur.wordpress.com/2011/06/27/frontend-forward-facing-ajax-in-wordpress/
+http://www.makeuseof.com/tag/working-custom-database-tables-wordpress/
+https://pippinsplugins.com/create-an-ajaxified-contact-form-short-code-tutorial/
+
+http://solislab.com/blog/5-tips-for-using-ajax-in-wordpress/
+http://natko.com/wordpress-ajax-login-without-a-plugin-the-right-way/
+
+
+https://www.google.com.vn/?gws_rd=ssl#q=submit+form+using+ajax+wordpress+%2B+front+end&start=20
+
+
+
+
++ Plugin
+	https://wordpress.org/plugins/json-rest-api/
+https://wordpress.org/plugins/json-api/
+https://wordpress.org/plugins/wp-api/ ( ko cập nhật )
+http://uigen.org/jsonforms/
+https://wordpress.org/plugins/accesspress-anonymous-post/
+https://wordpress.org/plugins/wp-user-manager/
+https://wordpress.org/plugins/djd-site-post/
+https://wordpress.org/plugins/frontend-edit-profile/
+https://wordpress.org/plugins/gnarly-frontend-page-sorter/
+
+
+
++ Blog hay
+https://pippinsplugins.com/learn/
+
+
++ Lightbox image
+http://noelboss.github.io/featherlight/
+http://webdesign.tutsplus.com/articles/super-simple-lightbox-with-css-and-jquery--webdesign-3528
+http://archetyped.com/tools/simple-lightbox/
+http://archetyped.com/lab/slb-2-3-0/
+http://andreknieriem.de/simple-lightbox/
+http://andreknieriem.de/sl/demo/
+http://lokeshdhakar.com/projects/lightbox2/
+http://buckwilson.me/lightboxme/
+http://sachinchoolur.github.io/lightGallery/
+http://fancybox.net/
+http://osvaldas.info/image-lightbox-responsive-touch-friendly
+http://osvaldas.info/examples/image-lightbox-responsive-touch-friendly/
+http://visuallightbox.com/photo-gallery-with-lightbox-simple-html-demo.html
+http://www.hongkiat.com/blog/jquery-image-galleries-sliders-best-of/
+http://galleria.io/
+http://photoswipe.com/
+http://www.vandelaydesign.com/jquery-image-galleries/
+http://www.1stwebdesigner.com/fresh-jquery-image-gallery-display-solutions/
+http://www.webdesignerdepot.com/2011/08/25-jquery-image-galleries-and-slideshow-plugins/
+http://www.tn3gallery.com/examples/tn3_eris_horizontal/
+http://www.yoxigen.com/yoxview/
+http://www.jssor.com/demos/different-size-photo-slider.slider
+http://lokeshdhakar.com/projects/lightbox2/
+
+
 == 09 - 11 - 2015
 + Từ khóa	
 How to debug with wordpress
