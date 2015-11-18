@@ -8,9 +8,18 @@ Post Data with Ajax in WordPress Plugins
 WordPress WP-API
 
 
-
+https://www.google.com.vn/?gws_rd=ssl#q=submit+form+using+ajax+wordpress+%2B+front+end&start=30
 
 	- Cần tìm
+	https://wpalchemists.com/2015/05/using-ajax-in-wordpress-themes-and-plugins/
+	https://bitbucket.org/snippets/wpalchemist/d9Lk/ajax-starter-kit
+	https://premium.wpmudev.org/blog/using-ajax-with-wordpress/
+	https://teamtreehouse.com/community/submitting-a-form-in-wordpress-using-ajax
+	https://www.gravityhelp.com/documentation/article/embedding-a-form/
+	https://formidablepro.com/help-desk/submit-forms-via-ajax/
+	http://www.sutanaryan.com/custom-user-registration-signup-using-ajax-wordpress/
+	http://codecanyon.net/item/forms-management-systemwordpress-frontend-plugin/8978741
+	
 	http://www.inkthemes.com/how-to-use-ajax-in-wordpress-for-data-insertion/
 	http://www.makeuseof.com/tag/tutorial-ajax-wordpress/
 	http://code.tutsplus.com/tutorials/adding-posts-to-a-sites-front-end-using-ajax--wp-25652
@@ -53,37 +62,58 @@ https://wordpress.org/plugins/wp-user-manager/
 https://wordpress.org/plugins/djd-site-post/
 https://wordpress.org/plugins/frontend-edit-profile/
 https://wordpress.org/plugins/gnarly-frontend-page-sorter/
-
-
+https://wpjobmanager.com/
+https://wpjobmanager.com/add-ons/
+https://chamberdashboard.com/
+https://wpalchemists.com/
+https://wordpress.org/plugins/chamber-dashboard-member-manager/
+https://wordpress.org/plugins/better-wp-security/screenshots/
 
 + Blog hay
 https://pippinsplugins.com/learn/
 
 
 + Lightbox image
+	http://dimsemenov.com/plugins/magnific-popup/
+	http://tympanus.net/Tutorials/FullPageImageGallery/
+	http://www.yoxigen.com/yoxview/
+	http://www.no-margin-for-errors.com/projects/prettyphoto-jquery-lightbox-clone/#prettyPhoto
+	http://photoswipe.com/
+	http://fancybox.net/
+	http://www.jacklmoore.com/colorbox/
+	http://galleria.io/
+	http://osvaldas.info/image-lightbox-responsive-touch-friendly
+	http://osvaldas.info/examples/image-lightbox-responsive-touch-friendly/
+	http://lokeshdhakar.com/projects/lightbox2/
 http://noelboss.github.io/featherlight/
 http://webdesign.tutsplus.com/articles/super-simple-lightbox-with-css-and-jquery--webdesign-3528
 http://archetyped.com/tools/simple-lightbox/
 http://archetyped.com/lab/slb-2-3-0/
 http://andreknieriem.de/simple-lightbox/
 http://andreknieriem.de/sl/demo/
-http://lokeshdhakar.com/projects/lightbox2/
 http://buckwilson.me/lightboxme/
 http://sachinchoolur.github.io/lightGallery/
-http://fancybox.net/
-http://osvaldas.info/image-lightbox-responsive-touch-friendly
-http://osvaldas.info/examples/image-lightbox-responsive-touch-friendly/
 http://visuallightbox.com/photo-gallery-with-lightbox-simple-html-demo.html
 http://www.hongkiat.com/blog/jquery-image-galleries-sliders-best-of/
-http://galleria.io/
-http://photoswipe.com/
 http://www.vandelaydesign.com/jquery-image-galleries/
 http://www.1stwebdesigner.com/fresh-jquery-image-gallery-display-solutions/
 http://www.webdesignerdepot.com/2011/08/25-jquery-image-galleries-and-slideshow-plugins/
 http://www.tn3gallery.com/examples/tn3_eris_horizontal/
-http://www.yoxigen.com/yoxview/
+
 http://www.jssor.com/demos/different-size-photo-slider.slider
-http://lokeshdhakar.com/projects/lightbox2/
+http://mschmidt.github.io/jquery-fullsizable/
+		
+	
+== 10 - 11 - 2015
++ Download plugin
+https://wordpress.org/plugins/projects-by-woothemes/
+
+http://kingtheme.net/woothemes-sensei-v1-8-8-premium-wordpress-plugin/
+http://kingtheme.net/woothemes-sensei-v1-8-6-extensions-pack/
+https://wordpress.org/plugins/our-team-by-woothemes/
+https://wordpress.org/plugins/features-by-woothemes/
+https://wordpress.org/plugins/testimonials-by-woothemes/
+www.woothemes.com/product-category/woocommerce-extensions/
 
 
 == 09 - 11 - 2015
